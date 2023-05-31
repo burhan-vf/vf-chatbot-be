@@ -1,0 +1,1677 @@
+﻿
+
+EMPLOYEE HANDBOOK 
+Proprietary Notice: This Document contains confidential information Proprietary to Kualitatem Private Limited and may not be reproduced, copied or used for purposes other than its intended use without the prior written consent of Kualitatem Private Limited. The information in this document is subject to change without notice.  
+
+Table of Contents
+1. Preamble
+2. Employment at Kualitatem Pvt. Ltd
+2.1 Employment at will
+2.2 Appointment
+2.3 Probation
+2.4 Confirmation
+2.5 Resignation
+2.6 Notice Period
+2.7 Clearance on  last working day
+2.8 Termination
+2.9 Return of Property
+2.10 Reference Request
+3. Workplace Rules
+3.1  Misconduct
+4. Hours of Work
+4.1 Attendance
+4.2 Schedule Groups
+4.3 Working Hours
+4.4 Work Flex (Check ins & Check outs)
+4.5 Night Shift Allowance
+4.6 Working on Weekends / Public Holidays
+4.7 Absences 
+4.8 Tardiness (Continuous Late)
+4.9 Departmental Notification Procedure
+4.10 Progressive Discipline
+4.11 Public Holidays
+5. Remuneration
+5.1 Payment of Remuneration
+5.2 Appraisals, Promotions and Salary Increments
+5.3 Kualitatem Pvt. Ltd Employee Fund
+5.4 KVF Health and Wellness Program (Gym Fee)
+5.5 Training & Certification Allowance 
+5.6 Meal Voucher Policy
+
+6. Leave Policy
+6.1 Introduction
+6.2 Types of Leaves
+6.2.1 Probation Leaves
+6.2.2 Sick n Emergency Leaves
+6.2.3 Casual Leaves
+6.2.4 Annual Leaves
+6.2.5 Compensatory Offs
+6.2.6 Maternity Leave
+6.2.7 Paternity Leave
+6.2.8 Marriage Leaves
+6.2.9 Compassionate Leave
+6.2.10 Carrying Forward of Leaves
+7. Medical / Health Insurance Policy
+7.1 Health Insurance (Salaam Takaful)
+a. Scope
+b. Policy
+c. What is Health Insurance
+d. Who is covered?
+e. In-Patient Medical Insurance
+f. Daycare Procedures
+g. Additional Benefits
+h. How to submit a Claim
+i. Key Exclusions Under Hospitalization Plan
+7.2 Medical OPD (OLADOC) 
+a. Purpose
+b. Objective
+c. Scope
+d. Policy
+e. Procedure
+f. OLADOC User Guide
+8. Travel Policy
+8.1 Objectives
+8.2 General Guidelines
+8.3 Local Travel
+8.4 International Travel
+8.5 Advance Against Expenses
+8.6 Expense Claim Process
+8.7 Note on Visa
+8.8 Things to Remember
+9.  Part Time Studying
+10. Office Furniture Supply & Installments
+11. Official Dress Code
+11.1 Scope
+11.2 Objective
+11.3 Guidelines
+11.4 For Male Association
+11.5 For Female Association
+12. Rehiring Policy
+12.1 Policy Brief & Purpose
+12.2 Scope
+12.3 Policy Elements
+12.4 Eligibility Criteria for Rehiring
+12.5 Procedure
+12.6 Fair Decision
+13. International Hiring Policy and Procedure
+13.1 Scope 
+13.2 Policy
+13.3 Procedure
+13.4 Eligibility to Apply
+13.5 General Guidelines
+14. Conduct at Work
+14.1 Code of Ethics
+14.2 Conflict of Interest
+14.3 Display of Religious Material
+14.4 Representation of Company
+14.5 Trade Secret and Confidentiality Agreement
+14.6 Acceptance of Gifts
+14.7 Absenteeism and Tardiness
+14.8 Standard of Personal and Professional Conduct
+15. Disciplinary Procedure
+15.1 Oral Discussion and Warning
+15.2 Written Warning
+15.3 Dismissal
+16. Substance Abuse Testing
+17. Employee Security and Well Being
+17.1 Safety
+17.2 Workplace Security
+17.3 Non Smoking Policy
+18. Harassment
+19. Acceptable Use of Electronic Communication
+19.1 Scope of Policy
+19.2 Standard Rules and Procedures
+19.3 Access
+19.4 Monitoring
+19.5 Compliance is essential
+20. Technology Usage and Privacy
+20.1 Privacy Policy
+21. Email and Instant Messages Policy
+21.1 Email Policy
+a) Rules and Requirements
+b) Best Practices
+c) Writing Emails
+d) Maintenance
+e) Personal Usage
+f) Confidential Information
+g) Email Accounts
+h) Monitoring
+21.2 Instant Messaging Policy
+a) Instant Messaging Usage
+b) Scope
+c) Policy
+d) General Guidelines and Rules
+22. IT Asset Security
+22.1 Purpose 
+22.2 Scope 
+22.3 Policy
+22.4 Asset Security
+22.5 Enforcement
+22.6 Information Security Control
+22.7 General Guidelines
+23. Company Vehicle Policy 
+24. Miscellaneous
+24.1 Personal Property
+24.2 Out-Side Employment
+24.3 Public Enquiries
+24.4 Criminal Convictions
+24.5 Internet and Online Services
+24.6 Security & Security Regulations
+24.7 Smoking
+24.8 Company Stationary
+24.9 Getting Prints
+24.10 Ticketing System (HR, IT & Finance)
+24.11 First Aid
+24.12 Privacy of Employee Information
+25. Kualitatem Pvt. Ltd Lunch Subsidiary
+26. Kualitatem Private Limited Locker SOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. PREFACE
+1.1 These policies shall be known as Kualitatem Pvt. Limited People Excellence Policy Controlled Document.
+
+1.2 These policies shall apply to all employees in the full time employment of the Company. However any terms contained in an employee’s Contract shall take precedence over those stated in these Service Rules.
+
+1.3 The Company reserves the right to modify, cancel or amend all or any of these policies, in whole or in part in subsequent additions and updates issued in connection with these policies from time to time.
+
+1.4 Notwithstanding the provision contained in this policy document, the Company reserves the right to issue instructions, directions and orders from time to time for conducting the business of the Company and for maintaining efficiency and discipline therein.
+
+1.5 The Company shall be the final authority for the interpretation of the policies contained herein and for decisions relating thereto and such decisions of the Company shall be final and binding on all employees.
+
+2. EMPLOYMENT AT KUALITATEM PVT. LTD
+
+2.1 EMPLOYMENT AT WILL
+
+While we hope our relationship will be mutually beneficial, it should be recognized that neither you nor Kualitatem Pvt. Limited have entered into any contract of employment for a definite term, express or implied. Your employment with Kualitatem Pvt. Limited is voluntary. Just as you voluntarily chose to work here, you are free to resign. Similarly, Kualitatem Pvt. Limited is free to conclude the employment relationship at any time, with or without cause. The relationship between employee and employer is at-will. This policy is subject to change with or without notice.
+
+2.2 APPOINTMENT
+
+2.2.1 Each successful applicant will receive a” Contract” stating the Salary, Job Title and nature of employment and any other terms applicable to the employment of the individual with Kualitatem Pvt. Ltd.
+2.2.2 An appointment to the service of the Company is valid only when the applicant has confirmed his acceptance in writing and
+a. Furnished all documents requested by People Excellence Department including but not limited to:
+● Copy of computerized National Identity Card
+● Photographs
+● Experience Letters 
+● Approved Copy of Resignation
+● Educational Certificates
+● Salary Slip from last employer 
+2.2.3 During employment no experience/employment letter will be furnished to an employee for any purpose whatsoever, other than a service letter that states only:
+● Joining Date
+● Current Designation & Salary
+● Purpose of issuance of letter as stated in formal request by the employee.
+
+2.3 PROBATION 
+
+2.3.1 Unless otherwise stated in the “Offer Letter”, a new employee is required to serve an initial probationary period of 90 days (3 Months) commencing from the effective date of joining..
+2.3.2 Within one week of joining, the employee will have a meeting with the Head of People Excellence Department regarding his/her onboarding feedback. 
+2.3.3 Within the first two weeks of joining the OKRs (S.M.A.R.T Goals) will be set by the reporting manager for the employee. The sales department will not have any OKRs but the targets will be set for them.
+2.3.4 On completion of half of the probationary period (45 Days) a performance evaluation (Interim Probation Evaluation) will be done by the employee’s current reporting manager. The People Excellence department will share the feedback on the performance with the employee.
+2.3.5 During the Probation Period the performance of the Employee shall be regularly reviewed. One week prior to completion of the probationary period the employee will evaluate himself on the OKRs set by his/her reporting manager. A performance evaluation will be done by the reporting manager based on how the employee had performed during the 03 months of probation.
+
+
+2.4 CONFIRMATION
+
+      2.4.1  On completion of the probationary period, the Employee will be informed in writing if he/she has        successfully completed the Probation Period and is a confirmed employee or whether the Company wishes to extend the Probation Period for any additional period.
+
+2.5 RESIGNATION
+
+2.5.1 Subject always  to the minimum term, the employee may resign from the Employment by giving prior notice in writing to the Company (the “Notice Period”). A formal email should be sent to the People Excellence Department and Reporting Manager in advance. The Notice Period shall commence once the Employee has duly notified the Company about their resignation through a Notice in writing. 
+
+2.6 NOTICE PERIOD 
+2.6.1 The employee may resign from the employment during the Probation Period by giving at least one (01) month’s prior notice in writing to the Company or by payment of one (01) month’s salary in lieu of such notice. The Notice Period shall commence once the Employee has duly notified the Company about their resignation through a Notice in writing.
+2.6.2 The Employee shall stay in Employment for a minimum period of one (01) Year beginning on the Effective Date of his/her confirmation with Kualitatem Pvt. Ltd. The Employee may resign from the Employment by giving at least three (03) month’s prior notice in writing to the Company or by payment of three (3) month’s salary in lieu of such notice. The Notice Period shall commence once the Employee has duly notified the Company about their resignation through a Notice in writing.
+2.6.3 The employee may resign from the employment after one (01) year of confirmed employment with Kualitatem Pvt. Ltd by giving at least one (01) month’s prior notice in writing to the Company or by payment of one (01) month’s salary in lieu of such notice. The Notice Period shall commence once the Employee has duly notified the Company about their resignation through a Notice in writing and is approved by the line manager.
+2.6.4 All the leaves availed during the Notice Period will be unpaid except for the Compensatory offs. Any unpaid leaves take shall require an approval from the reporting manager and the People Excellence Department. All the unpaid leaves taken in continuation of weekend or any public holiday shall be considered unpaid (Weekend and Public Holiday will be unpaid as well).
+2.6.5 An employee who is dismissed for misconduct, professional negligence or violation of any clause from the Employment Contract shall not be entitled to any notice or equivalent pay.
+
+2.7 CLEARANCE ON THE LAST WORKING DAY
+The employee shall take a sign off  from all the departments as part of his clearance process on the last working day. People Excellence will initiate his/her clearance.  The sign off from the departments need be done in the in the order mentioned below:
+
+2.7.1 Technical Clearance- Given by the reporting manager, confirming all existing tasks are complete and all  data has been handed over by the employee. 
+2.7.2 All IT related assets and devices are handed back to the IT Department and all credentials are reset for the employee.
+2.7.3 All the dues (Kickstart of any other) are paid.
+2.7.4 Acknowledgement from the People Excellence Department(checking of unpaid leaves/ deactivation of clockit and final settlement confirmation).
+2.7.5 Final Settlement to be prepared by the Finance Department.
+
+Once done with all above, the People Excellence Department will issue the Experience Letter within two weeks of the last working day of the Employee. If anyone fails to fulfill any of the above, the company might take action, stop the employee’s clearance and refrain from issuing the Experience Letter until further notice.
+
+2.8 RETURN OF PROPERTY
+
+Employees are responsible for all Kualitatem Pvt. Ltd property, materials, or written information issued to them or in their possession or control. Employees must return all Kualitatem Pvt. Ltd property immediately upon request or upon termination of employment. Where permitted by applicable laws, Kualitatem Pvt. Ltd may withhold from the employee's salary check or final settlement check the cost of any items that are not returned when required. The company may also take all action it deems as appropriate to recover or protect its property.
+
+2.9 REFERENCE REQUEST
+
+2.9.1 In an effort to protect and respect every member of the Kualitatem Pvt. Ltd community, employees should refrain from providing information of any sort on their fellow employees to any outside entity. An employee who receives a request for information concerning a past or present employee should redirect inquiries to the People Excellence Department. The People Excellence Department will normally verify an employee's date(s) of employment, and position(s) held. A written disclosure authorization and release is required before any information regarding salary is furnished.
+2.9.2 Strict adherence to this policy is required. Any violation of this policy may result in disciplinary action up to and including immediate termination.
+
+3. WORKPLACE RULES
+
+1. All employees are requested to abide by and maintain good conduct in the office or while representing Kualitatem Pvt. Ltd at an external association, establishment, official gathering etc.
+2. In case employees' performance or conduct does not meet company standards Kualitatem Pvt. Ltd will provide, where it feels appropriate, an employee with reasonable opportunities to correct the deficiency.
+3. The poor performance or conduct of any employee shall be intimated to the employee in the following manner:
+● Verbal warning from the immediate supervisor and intimation to the People Excellence Department.
+● Written warning under intimation to People Excellence Department.
+● Second written warning from People Excellence Department following suspension, in case the deficiency or performance does not improve after first written warning
+● Termination of services if the deficiency or performance does not improve during the suspension period.
+● These steps may not be followed in the exact sequence as listed above in case of fraud, willful misconduct or refusal to obey lawful instructions of the management. Kualitatem Pvt. Ltd. reserves the right to proceed directly to written warning or termination for misconduct.
+
+3.1 MISCONDUCT
+ 
+1. The Rules set forth below are intended to provide employees an idea of what is considered as misconduct. There may be an act not listed below but if adversely affects or otherwise causes harm to the other employees, management of the company or customers (including conduct of employees outside the premises of Kualitatem Pvt. Ltd. and where they are identified as Company employees) may also result in disciplinary action against the employee.
+2. Employees may be disciplined for misconduct including but not limited to the following:
+● Insubordination
+● Dishonesty
+● Theft
+● Fraud
+● Forgery
+● Misusing, damaging or destroying Company property or the property of others on company premises.
+● Violating conflict of Interest Rules
+● Disclosing confidential information or using confidential or proprietary information without authorization.
+● Falsifying or altering Company records including application of employment.
+● Altercation.
+● Harassment including sexual harassment of employees or customers.
+● Interfering with work performance of others.
+● Being under the influence of, manufacturing, dispensing, distributing, using or possessing alcohol or any other illegal substances on Company premises or while conducting Company business.
+● Being in possession of firearms or any weapon, which could threaten the safety of other employees or customers.
+● Abusing or misusing any company provided facilities including Internet facility, visiting prohibited sites or sending abusive emails to the management or other company employees.
+● Sleeping on the job or going for prolonged breaks without permission/ authorization.
+● Being convicted of a crime that leaves you unfit to perform the job and (or) a threat to the safety or wellbeing of the Company or its employees, customer or property.
+
+4. HOURS OF WORK
+
+4.1 ATTENDANCE
+
+        Every person's contribution is needed on a daily basis, so it is important that everyone maintain regular and punctual attendance. Therefore, absenteeism and tardiness must be kept to a minimum. If an employee is unable to report for work, he or she should notify his or her manager prior to the start of the work day. Unreported and excessive absences or chronic tardiness may result in disciplinary action, up to and including immediate termination.
+
+If an employee is absent for three  days without notifying his or her manager, it is assumed that the employee has abandoned his or her position with Kualitatem Pvt. Ltd, and is considered to have voluntarily resigned.
+
+
+4.2 SCHEDULE GROUPS
+
+Unless otherwise stated in the Offer Letter/ Employment contract  given to an employee, the average working hours of all employees are 40 hours per week – a week is of 05 (five) working days. The standard working hours for all the employees will be from Monday – Friday 9:00 AM to 6:00 PM, with an hour lunch break. 
+
+The time schedule and working days may be subject to change depending upon the Project allocation of the employee. The employee may be required to work on the working hours different from the standard. The intimation should come from the current reporting manager to the People Excellence department.
+
+For the employee’s Schedule to be updated an email requesting the change in schedule group should be sent at attendance@kualitatem.com. The email must contain the working days and the hours of the employee along with an effective date. The email can be sent by the reporting manager himself or the resources can drop the email by keeping his/manager in the loop. Upon manager’s approval the People Excellence Executive will update the time schedules of the employees on ClockIT and will give the confirmation back on the same email thread.
+
+4.3 WORKING HOURS
+
+Following working hours are being followed: 
+
+Timing
+Monday to Friday	 9:00 AM to 6:00 PM
+Lunch break	               1:00 PM to 2:00 PM
+Lunch break – Friday	1:00 PM to 2:30 PM
+
+Please note the time schedule and working days may be subject to change depending upon the Project allocation of the employee.
+
+4.4 WORK FLEX (CHECK IN & CHECK OUT)
+
+Employees are required to follow established guidelines for recording their actual hours worked. A missed Check in and Check out is a violation.
+● All employees are required to work 8 hours/day, 40 hours / week, unless and otherwise stated differently in the contract. 
+● The check in & check out at the beginning & end of the employees’ designated time schedules should be followed rigorously.
+● The employee should check in on time. Checking in 1 sec later than your usual check in time will start reflecting late on the ClockIT i.e. 9:00:01 AM will be marked late on the ClockIT.
+● People Excellence Team will not cater any Manual Check Ins (e.g. editing the missed Check ins/ late Check ins) at any cost. 
+● A grace period of 30 minutes is allowed, but a total of 8 working hours for the day need to be completed. 
+● ClockIT will send a reminder Check in & Check Out email if the employee misses/forgets his/her check in and Check Out. Immediate Check in & check out upon receiving of reminder email are advised in such situations.
+● The employee should check out on time as well.
+● If the employee checks in after 11:00 AM (or two hours later than the usual check in time) a short (0.25) leave will be deducted automatically from his/her leave quota.
+● If due to some unforeseen circumstances the employee misses his/her check (which is strictly detested) he/she can request an edit by sending an email attendance@kualitatem.com. The email should clearly mention the reason due to which the Check in was missed and the requested check in time. The employee must include his/manager in the loop. Upon manager’s acknowledgement & approval the PE Executive will update the Check in time on ClockIT and will give the confirmation back on the same email thread.
+
+Please note continuous failure to check in and check out will result in employee being marked absent on the days when check in and out was missing. Three consecutive instances will result in disciplinary action against absences.
+
+4.5 NIGHT SHIFT ALLOWANCE
+
+Only professional service employees that are part of the engineering team and  provide support at night between 4:00 pm to 2:00 am (minimum 8 hours) are eligible for the night shift allowance. The night shift must be approved and notified by the reporting manager to the People Excellence Department. The employee working in the night shift will receive 20% of his/her salary as night shift allowance. The night shift allowance will be disbursed with his/her salary every month. 
+
+4.6 WORKING ON WEEKENDS/ PUBLIC HOLIDAY
+
+● Non-working day is any public/gazette holiday or any, which is marked as a non-working day as per People Excellence Department announcement.
+● In order to work on a non-working day/Weekend, the employee needs to take a prior approval from his/her reporting manager and this should be communicated beforehand to the People Excellence & Administration Department.
+● All the employees are required to complete their assigned task within the working days and the working hours. In occasional cases if the employee is required to work on a non-working day, a prior approval is required from the reporting manager before the commencement of the work. Approval after working on a non-working day is not allowed and will not be catered in anyway.
+● Employees are required to explain the reason why such working is required. Reporting Manager’s approval will be required to be allowed to work on such days.
+● On a non-working day, the employees working are only allowed to use the designated working Floors for work. Admin staff is required to maintain strict compliance in this regard.
+
+4.7 ABSENCES 
+An employee is deemed absent when he/she is unavailable for work as assigned/scheduled and such time off was not scheduled/approved in advance as required by department notification procedure.
+● In the event of absence or tardiness from an assigned work schedule, the employee is required to report within one hour of scheduled start time. In the event the employee cannot reach a Line Manager or Reporting Manager, the absence should be reported to the People Excellence Department.
+● Employees are required to submit a physician’s certificate in the event of repeated absences for the medical reasons or medical absences exceeding two days.
+● An employee’s absence will be considered excused if the employee provides proper and timely notification deemed satisfactory to the People Excellence Department, Line Manager or Reporting Manager. Timely notification means calling in on the day of absence or providing advance notice for absences which can be anticipated. 
+● An employee’s absence will be deemed unexcused in case of Failure to give proper notice of absence(s) prior to the beginning of the working Hours and frequent lateness or early departures.
+● Habitual absenteeism is defined as two or more instances of unexcused absence in a calendar month. Such habitual absenteeism is subject to corrective discipline.
+
+4.8 TARDINESS (CONTINUOUS LATES)
+
+● Employees are considered to be tardy if they fail to report to their designated work place at the scheduled time. All employees are expected to strictly adhere to the laid down timings of work and breaks. Any violations are liable to be punished as per company policy.
+● Employee who expects to be late by 30 minutes or more is required to notify his Line Manager, Reporting Manager and the People Excellence Department.
+
+4.9 DEPARTMENTAL NOTIFICATION PROCEDURE
+
+Employees are expected to notify their Line Manager, Reporting Manager and People Excellence Department if they will be late for work, will not be at work, or are requesting planned time away from work. Employees must request in advance to their Line Manager or Reporting Manager if they wish to arrive early or leave early from an assigned shift and also  inform the People Excellence Department.
+
+At the time of notification/call, the employee must notify their Reporting Manager/Line Manager when an absence is due through proper email and seek approval on the absence/leave. Once approved by the Manager, leave should be applied on  ClockIT. NO leave will be marked through Emails. Employees need to login to ClockIT to mark their leave.
+
+Any employee who fails to call in and report to work as scheduled for three consecutively scheduled work days will be viewed as having abandoned their position and the employment termination process will be initiated. The Line Manager should consult with the People Excellence Department if this situation occurs.
+
+Incidents of not following the notification procedures, including No-Call/No-Show, will be addressed in accordance with the Progressive Discipline policy.
+
+4.10 PRPGRESSIVE DISCIPLINE 
+
+Line Managers should monitor their employees' attendance on a regular basis and address unsatisfactory attendance in a timely and consistent manner. If Line Managers notice a pattern of unscheduled usage of accrued time off banks, they should discuss this concern with the employee.
+
+When an employee has been previously counseled under the progressive discipline guidelines, the totality of the circumstances will be assessed when determining further action. For situations involving suspension or termination of employment, the Line Manager should consult with Human Resources prior to implementing disciplinary action.
+
+Timely and regular attendance is a performance expectation of all employees. Consequently, those employees who have exhibited unsatisfactory attendance which resulted in disciplinary action (written or final) during the course of the year may have the behavior documented in their annual evaluation.
+
+4.11 PUBLIC HOLIDAYS
+
+All employees are entitled to the paid public holidays gazette by the Government of Pakistan, or holidays in lieu of working on those days.
+
+This policy is intended as a guideline to assist in the consistent application of Kualitatem Pvt. Ltd. policies and programs for employees. The policy does not create a contract implied or expressed, with any employee, who are employees at will. Kualitatem Pvt. Limited reserves the right to modify this policy in whole or in part, at any time, at the discretion of the Management.
+
+5. REMUNERATION
+
+5.1 PAYMENT OF REMUNERATION
+
+● Salary, commission where applicable, and overtime pay for all employees are calculated on a calendar month basis.
+● Payment of salary shall be on a monthly basis, and such net amount after any authorized deduction, is credited to the employee’s bank account by the 10th of each month.
+● The company’s Payroll is associated with United Bank Limited and Standard Chartered Bank. Employees with Non-UBL and Non-SCB Bank Accounts may experience a delay in their salary transfer due to clearance of the cheque deposited.
+● People Excellence Department will facilitate the employees with their Bank Account Opening with UBL and SCB. To serve the purpose PE Department will invite the Bank’s representative every two weeks in the DHA Office and get the sign ups of all the employees with Non-UBL  and NON- SCB Bank Accounts. 
+● For Employees out of city the PE Department will provide the Company stamped Employment Letter to get the Account Opened in UBL or SCB.
+
+
+5.2 APPRAISAL, PROMOTIONS & SALARY INCREMENTS
+
+● Every employee shall have at least one performance appraisal during a calendar year based on the performance evaluation and eligibility.
+● Changes in salary and Title (Level) for an employee will be made on the basis of Feedbacks by the employee’s reporting manager in consultation with higher management.
+● The amount of any salary increase will be on the basis of the employee’s seniority in the grade and the appraisal rating/Performance Evaluation.
+● The Employees having their Employment Confirmed in the months of Oct-March will be eligible for Increments in January’s OKR & Evaluation Cycle. Similarly the Employees having their Employment Confirmed in the months of April-Sep will be eligible for Increments in July’s OKR & Evaluation Cycle.
+
+
+5.3 KUALITATEM PVT. LTD EMPLOYEE FUND
+
+The Employee Fund is a fund established for the employees’ benefit by collecting contributions from Kualitatem Pvt. Ltd and its employees. The contributions of employer and employees are placed in the Employee Fund in the employee’s name. Employees are allowed to withdraw their savings from the Employee Fund in accordance with the policies of the Employee Fund.
+
+5.3.1 Eligibility for joining the Scheme
+● All permanent employees of the company appointed through the employment contract would be eligible for the fund. 
+● Consultants, Advisors, non-regular employees working as full time internees, probationary period, on daily wages, shall NOT be eligible to join the Fund; 
+
+5.3.2 Employee Contributions
+● Normal contribution shall be made @ 5% of the gross monthly salary for the Eligible Employee; 
+● Eligible Employees may contribute at a rate higher than the normal rate of contribution. However, the employer contribution shall be made in accordance with the company policy of 5% gross contribution. 
+● Employees appointed as internee or on probation will start depositing the contributions on completion of the probation or internship period.  
+
+5.3.3 Employer Contributions
+● Employer’s contributions shall be made equal to the normal contributions of the employee i.e. 5% of the Employee Gross Salary. 
+● In case Employee opts for contributing more than the normal compulsory contribution, the employer contribution will remain restricted to normal contributions of the employee i.e. 5%. 
+5.3.4 Mode of Contributions
+● Employees will be able to contribute through deduction from their payroll. 
+
+5.3.5 Nominations
+● Employees must make a nomination confirming one or more person who have a right to receive the amount that is due payable as per rules, in case of his/her death. 
+● Only family members can be nominated and in case of more than one person, employees must specify the share they receive. 
+● Employee at any time, cancel or substitute a nomination or change the share percentage through a fresh nomination application. 
+5.3.6 Employee Accounts
+● Pak Qatar Limited maintains employee accounts for employee funds independently however; employees will not be facilitated directly by them. 
+● Any communication will go through the Company and the Governing Body. 
+5.3.7 Rules for Claiming the Fund after resignation
+● If an Employee resigns from his/her job, before completion of their 1 year as permanent employee, they will be entitled to 100% of their contribution and 0% of the company contribution 
+● If an Employee resigns from his/her job, after completion of their 1 year as permanent employee, they will be entitled to 100% of their contribution and 100% of the company contribution 
+● The employee will not be eligible to receive this fund during the notice period or after resignation.   
+● The time frame calculated will be from date of confirmation to date of resignation for eligibility of the above fund and notice period will not be counted. 
+● Employee fund payment will be made to all the employees who are leaving within 90 days of their last working day as part of their final settlement.
+● The employee Fund is maintained independently by PAK Qatar Takaful. Upon resigning PAK Qatar will require a minimum time period of 90 Days to arrange the funds and Deposit the EF Amount/the Cheque in the leaver’s account after his/her last working with Kualitatem Private Limited. 
+
+5.3.8 Employee Loan Scheme/ Rules for Claiming the during active employment
+● Employees will be eligible to use the employee fund during active employment, subject  to approval of the Governing Body and no advance shall be granted unless the Governing Body is satisfied that applicant’s circumstances justify it. 
+● After contribution to the fund for 1 year, the Employee can apply for a loan of up to 50% of their total accumulation (personal + company)
+● After contribution to the fund for 2 years, the Employee can apply for a loan of up to 70% of their total accumulation (personal + company)
+● If an Employee contributes to the fund for 3 years, he/she will be eligible to claim 75% of the total accumulation (personal + company) from the fund for their personal use without any restriction. 
+● This timeline will refresh with the same rules and eligibility once the fund has been claimed after every 3 years.  
+● Loans will be disbursed against payable cheques for a maximum of 6 months in equal installments. 
+● Advance can be taken only for the purpose of buying an asset like house or vehicle or treating for healthcare. Governing body is authorized to ask for necessary proof. 
+
+5.4 KVF HEALTH & WELLNESS PROGRAM (GYM  FEE)
+
+5.4.1 Eligibility
+
+Gym membership reimbursement is available to full-time employees who have been employed on permanent employment after successful completion of their probation period.
+
+5.4.2 Exclusions
+Recreational activities, weight-loss programs, smoking-cessation programs, and other similar programs, although encouraged as part of an overall fitness program, do not qualify for reimbursement unless approved specifically from the People Excellence Team.
+               
+5.4.3 Policy Guidelines:
+
+● Permanent  Employees will be reimbursed 50% of the monthly gym fee  upon submission of verified receipts..
+● Employees will also be eligible to get 50% of the Registrations Fee (refer to terms & Conditions) one time during the employment for an individual membership at a fitness center. Employees with a family membership must provide documentation of the cost for an individual membership, and will be reimbursed based upon that amount.
+● Employees will be reimbursed on a monthly or quarterly basis, based on the type of membership.
+
+5.4.4 Procedure of Claim
+Employees must fill  the expense claim form to claim for reimbursement. The expense claim form and copy of the receipt must be submitted before the 25th of each month. Any expense  that is  claimed after the 25th of every month will be processed with next month’s payroll.
+Expense Claim must be submitted to People Excellence along with receipts which will be forwarded to Finance and will be paid along with salary of each month. The People Excellence has the right to verify receipts submitted
+Terms & Conditions:
+
+● KVF will consider Shapes Gulberg branch as a benchmark for reimbursement of monthly membership fee and define a cap of  i.e. Rs. 7,000/- and maximum of  50 % can be claimed (ex. Rs. 3,500).
+● KVF will consider an upper limit cap of Rs. 3500/- for reimbursement of onetime registration fee in an employee’s life cycle with the company and maximum of 50% can be claimed (ex. Rs. 1,750). .
+● All claims will be reimbursed at 50% of the actual cost. 
+
+5.5 TRAINING, CERTIFICATION & DEVELOPMENT ALLOWANCE
+
+5.5.1 Objective:
+Kualitatem Private Limited encourages employees to enhance knowledge and skills and to network with other professionals, thus improving potential for future opportunities. Kualitatem Private Limited recognizes that for development purposes, employees may need to attend training seminars or workshops conducted off-site or join professional associations that will enable them to remain abreast of best practices in their respective fields. Thus, the purpose of this policy is to outline company parameters for attending external training functions and joining/renewing memberships in professional associations. Please note that this policy is subject to annual company budgets established for external training and memberships / certifications.
+
+5.5.2 Scope:
+
+In support of this program, we offer a training benefit to full-time employees who have been employed by the company for nine months. The benefit can be used to pay 50% of the costs associated with:
+●     Professional exams (e.g., ISTQB, PMP, SHRM-CP/SCP, Six Sigma, CPA) and exam preparation courses.
+● Certificate programs and credentials.
+● Courses offered by an accredited institution, including e-learning.
+●  Workshops, seminars and conferences.
+●  Membership in professional organizations.
+● Magazine subscriptions.
+● Employees may be permitted to attend one off-site / online seminar, certification exam, conference or / and join one professional association, annually that will be paid for by the company as per Annex A . The training / certification event to be attended / association selected must have a direct relationship to the job the employee performs. For work scheduling purposes, the employee’s request for attendance / Association must be received at least two months in advance of the event, and the employee’s department head must approve the request.
+
+●  5.5.3 Applicability
+ 
+Kualitatem Private Limited reserves the right to determine which training workshops / seminars / certifications and association memberships are in the best interests of the company, its future planning and direction. Thus, the company has established a development committee that will review all requests for external training and memberships, determine priorities and approve or disapprove requests based on the company’s annual budget established for these programs and upto a maximum limit of 3%[1] of an Employee’s annual gross Salary. To Claim this amount the employee will contribute equally.   The development committee meets monthly, and all requests received by the committee prior to the meeting will be acted on and department heads advised accordingly.
+Training that requires time away from work during an employee’s normal work schedule is limited to 40 hours per employee's anniversary year and must be documented on Clockit under “training.”
+Sr.#
+ACTIVITY
+RESPONSIBLE POSITION
+TASKS TO BE PERFORMED
+ 
+1.
+ 
+Planning / Submitting a request for participation
+ 
+Individuals /
+Department Head
+ 
+To participate in this program, the employee must submit a request at least two months in advance by completing a professional development request form and forwarding it to his or her department manager. If approved, the manager will send the form to People Excellence (PE).
+ 
+ 
+ 
+ 
+2.
+ 
+ 
+ 
+Approval
+ 
+Development Committee /  PE
+ 
+PE will forward the request to the development committee[2] and obtain a final decision[3]. PE will then notify the employee and the manager when the request is approved or denied.
+ 
+ 
+3.
+ 
+ 
+Participation
+ 
+ 
+Employee
+ 
+The employee may incur expenses only after receiving approval from the development committee. The employee must then submit the following documents to the Finance Department:
+1. Expense report form.
+2. Receipt.
+3. Copy of the approved professional development request form.
+After concluding training, the employee must submit a certificate of completion or similar document and a professional development report (when applicable) to PE to be filed in the employee’s personnel file. The employee should set up a knowledge sharing session immediately after completing the training/certification.
+ 
+ 
+4.
+ 
+ 
+ Limitations
+ 
+ 
+ 
+ 
+Where the award of a certificate is contingent upon employee readiness and preparation, the company will pay only if the attempt is successful.
+
+                     5.5.4 General Guidelines & Claim Procedure
+●  The employee needs Head of PMO & Reporting Manager’s Approval before enrolling himself/herself in the certification.
+● Once approval is given to the  employee, he will enroll himself and upon successful completion of the certification the 50% of the cost incurred on the certification will be reimbursed. (Please note the amount should not exceed the Training and Development Allowance limit).
+● Any amount exceeding the Training and Development Allowance limit will be borne by the employee himself.
+●  Employees will need to share approval email, Expense Claim Form, Receipt of the payment made/ payment proof and a clear picture of the certificate received upon the successful completion of certification with People Excellence Department.
+● The People Excellence Department will forward the claim to the Finance department. The claim should be sent to the PE Department before the 25th of every month. Any claim sent after 25th of every month will be processed with next month’s salary
+[1] This includes any onsite training expenses e.g. travel, lodging expenses etc. (within this budget)
+[2] The committee will be comprised of Head of Capacity Building, Head of Technical Excellence and VP of Innovation and Technology
+[3] The committee will consider the following for approval i) monthly available budget ii) spread of budget utilization iii) effectiveness of the training iv) utilization of acquired skills as ROI v) availability of resource (PMO’s consent)
+
+
+5.6 MEAL VOUCHER POLICY
+5.6.1.1 Eligibility & Scope
+
+● Employees will be  eligible for meal (lunch/dinner) provided they are working from office and  meet the criteria for late sittings:
+● If  an Employee is required to work late till 10:00 PM and above, dinner will be awarded, provided the employee has started the day at 9:00 A.M. 
+● If  an Employee is required to work from office on weekends or any public holiday lunch/dinner will be entitled as per their timing of attending office on such dates.
+● Late sitting / weekend work must be pre -approved and Manager/ TL should loop in PE Department while assigning the work after 6:00 PM in case of urgency an intimation must be sent to PE Department by 9:30 PM for the extended late sitting by Manager / TL / Employee.
+● Manager will send a formal approval over the compensation of late sitting with respect to leave / short leave and then the PE Department will approve the meals based on the manager's approval.
+● A meal voucher redeemable at Kickstart Café will be issued to the employee based on the prior approval of late sitting / weekend work.
+● Reimbursement cannot be provided unless the late sitting or weekend work is approved by the Manager.
+● Finance department needs to verify that PE Department has approved the case and an approval from the Manager along with PE Department is required in case of any special reimbursement value.
+
+This following table constitutes the maximum amount any employee will receive as reimbursement for meals:
+
+Lunch / Dinner
+Kickstart Café
+Other*
+
+Reimbursed value
+
+Rs. 500/-
+
+
+Rs. 250/-
+
+
+* Other: Any restaurant or local eatery other than Kickstart café. 
+5.6.2 Procedure
+
+For Kickstart Café 
+
+● Late sitting must be pre -approved and Manager/ TL should loop in the PE Department while assigning the work after 6 PM or for any weekend.
+● Employees will get a Meal voucher from the PE Department by 6:00 PM if the approved late sitting is till 10 PM which can be redeemed at café.
+● In case the late sitting is not approved early or the time of late sitting was not estimated initially then employee needs to send an email at 9:30 PM to PE Department ccing the manager for late sitting and can get the voucher from café after filling in the required information which will be later verified by the PE Department.
+● Café will be allowed to redeem the voucher request after 9:30 PM and it will be valid for the same day only.
+● Any amount exceeding the limit must be borne by the employee.
+For any other restaurant
+
+● Employees must submit original receipts with their reimbursement form. The receipt should show the amount of the expense, the date of the expense, the time of the expense, and the location of the expense. These receipts must be the original receipt identifying what was purchased and from whom. 
+● Late sitting/ weekend work must be approved prior to the claim of meal.
+● Reimbursement requests must be approved by the PE Department once the work is approved by the Manager for eligibility.
+● Finance department will reimburse the claim based on the approved amount on the reimbursement form by the PE Department / Manager.
+● Finance department will pay in cash the claim to the employee.
+● Any amount exceeding the limit must be borne by the employee unless approved by the manager & PE Department in special circumstances.
+● No reimbursement will be made if an employee fails to provide the original receipt of the same.
+
+
+6. LEAVE POLICY
+
+6.1 INTRODUCTION
+
+Leave shall not be claimed by an employee as a matter of right. The granting of leave shall be subject to the exigencies of the Company business. The submission of an application shall not be deemed to be valid until formally sanctioned by the Competent Authority. Any request beyond the available quota of leave, will be treated as leave without pay or absence.
+
+A year is defined as a calendar year from 1st July to 30th June. All the leaves lapse on the start of a new Fiscal Year and the leave quota renews for every employee.
+
+6.2 TYPES OF LEAVES
+
+● Probation Leaves
+● Sick / Emergency Leave
+● Casual Leaves
+● Annual Leaves
+● Compensatory Leave
+● Maternity Leaves
+● Paternity Leaves
+● Wedding Leaves
+● Compassionate Leave
+● Unpaid Leaves
+● Carrying forward of  leaves
+
+6.2.1 Probation Leaves 
+
+● During the probation period, an employee will be entitled to 1 leave per month. Number of probation leaves will be  directly proportional to the number of probation months assigned to an employee..
+● If the employee’s probationary period increases, his/her probation leave will increase as well.
+● During the Probationary Period the employee is not entitled with any other kind of leave.
+● In order to avail the Probation Leave, the employee must seek an approval from his Reporting Manager at least 48 hours before the leave date and drop an email at attendance@kualitatem.com, ccing his manager. Once the manager has given the approval on the leave, the employee shall apply for the leave via ClockIT.
+● All the probation leaves are lapsed once an employee has been offered a permanent position in the company. Upon successful completion of the probation period the employee is then entitled to all other types of leave that are eligible after confirmation.
+
+6.2.2 Sick / Emergency Leave
+
+● Emergency / Sick Leave is when an employee takes time off from work to attend to an urgent personal matter or death of someone in the family or near relatives or if he/she is not feeling well.
+● Employees have a provision to take medical leave where this is required. An attested medical certificate will be required for sick leaves exceeding two consecutive days. 
+● Employees shall get emergency leaves pre- approved/notified at least 24 hours in advance.
+● Employees shall notify their line manager about the sick leave as early as possible on the day of their absence, as and not later than 9.00 a.m., of their absence from work, the reason and the expected duration of their absence.
+● In case of emergency, the staff must call the PE Department by phone before the start of their shift (i.e. 9:00 AM), mentioning the REASON. The reason must be a genuine one. The genuineness of the reason would be at the discretion of the PE Department.
+● It should be noted that Sick/Emergency Leave cannot be taken within or in continuation of any other type of leave.
+● Holidays declared by Management / Public Holidays and weekly holidays can either be Prefixed or Suffixed where Prefixing & Suffixing both is not permitted at one time.
+● Sandwich Rule will always apply if the sick / Emergency is taken in Continuation of any weekend of Public Holiday.
+6.2.3 Casual Leave
+A Casual Leave is a planned leave for which  an employee takes time off from work to attend to a personal matter. This may include any personal task or an event that he/she needs to attend. During the calendar year, employees shall be entitled to 7 days with full pay entitled as Casual Leave. Employees must pre-plan their casual leaves in order to minimize the impact of their absence on their work and functioning of their team. Casual leave must be approved for at least 48 hours prior to the date. All employees must follow the process defined for applying for Casual Leaves when availing them. 
+Absence notification received after the indicated time will be counted as no notification, the leave will be treated as unpaid and the employee will be liable for disciplinary action. Employees falsifying information or using Casual Leave for purposes other than what they have informed to acquire approval may be liable for disciplinary action.
+Holidays declared by Management / Public Holidays and weekly holidays can either be Prefixed or Suffixed where Prefixing & Suffixing both is not permitted at one time.
+● If the employee earns the casual leaves and later applies  for taking more than 2 leaves together and gets them approved at least 1 month in advance then the sandwich rule will not apply.
+● Sandwich rule will apply  to all the approved leaves, which were not pre – approved at least 01 month in advance .
+Procedure for Casual Leave
+
+● For approval of casual leave an email must be sent to Line Manager/ TL, PE Department at least 48 hours in advance. 
+● Employees can’t take more than 1 CL in one month unless it is pre- approved at least 1 month in advance.
+● If an employee has earned the CL and later applies for taking more than 1 CL or all casual leaves together, then these leaves need to be pre-approved at least 1 month in advance.  
+● If an employee is taking a casual leave along with any Event (i.e. EID, Muharram etc.) or gazetted holidays, then these leaves need to be pre-approved at least 1 month in advance as well. 
+● Casual Leave can be taken in continuation of Annual Leave and the pre – approval must follow, the same as that for annual leaves.
+
+ The employee shall inform and take approval one month before the actual leave date in case of all above mentioned scenarios. Incase of failure to do so, the leaves will be considered as unpaid leaves.
+
+● Compensatory  leave follows the same procedure for pre-approval as earned CL.
+
+6.2.4 Annual Leaves
+
+Employees are eligible to earn and avail their Annual Leaves after completion of one year of permanent Employment with the company. The time an employee has spent working during the probation /internship with the company, is not considered for their eligibility to earn these leaves.
+
+● In the name of  Annual Leaves, employees will be entitled to avail  holidays for a period of 10 working days; these may be taken consecutively, including weekends. 
+● Annual Leaves need to be applied for at least one month in advance, if you intend to take all  the leaves together or atleast  with one week’s notice if you wish to apply for these leaves in portions.
+● All Leaves are subject to the approval of your line manager. You can expect a response within 7 days of applying for Annual Leaves, but in case  no response is received  from the manager, it does not indicate that the request has been approved.
+●  Leaves will be allocated on a "first come - first serve" basis whilst ensuring that operational efficiency and minimum staffing levels are maintained throughout the year.
+● Annual Leave is not  permitted during the period of notice prior to the separation from employment.
+● In case of illness during the Annual Leave period, no Medical Leave will be granted to replace the Annual Leave, however if the illness exceeds the Annual Leave period Medical Leave can be taken in continuation of Annual Leave according to rules pertaining to Medical Leaves.
+● Casual Leave can be taken in continuation of Annual Leave.
+● Annual leave (holidays) needs to be approved at least 1 month in advance when taken in full all together.
+
+Procedure of Annual Leaves
+All annual planned leaves need to be agreed in advance with the Line Manager.  Employees will be personally accountable if they fail  to report the availed leave. Final approval from manager will be granted when the employee has ensured a proper handing over of on-going projects to line manager & substitute colleague at least 3 working days prior to his leave days.
+In order to get operational approval - Employees are encouraged to provide their leave schedule at the start of the quarter and get their leaves approved at least a month in advance. Leave approval authority will strictly be following these rules now i.e. every employee must apply for their expected dates of annual leaves at least 4 months in advance.
+Annual leaves can be used as Casual leaves and an employee must get it pre- approved according to the rules of Casual Leaves.
+
+6.2.5 Compensatory Leaves
+● Any Employee working overtime/sitting late with Manager’s approval will be given a compensatory Off.
+● If the employee has worked till 12:00 AM (6 Hours later than usual check out time) a half day compensatory leave  will be added to employee’s leave quota, provided the employee started the day at 9:00 AM.
+● If the employee has worked till 2:00 AM (and onwards) a full day compensatory leave will be added to employee’s leaves quota, provided the employee started the day at 9:00 AM. 
+● The compensatory  leaves do not expire before the Fiscal Year ends so they can be utilized anytime in the fiscal year.
+● After any overseas travel, the employee will be given compensatory leave for rest OR his/her domestic task.
+a) Visit of more than 01 month and less than 02 months in continuation: 1 Compensatory Leaves
+b) Visit of more than 02 months and less than 06 months in continuation :, 2 Compensatory Leaves
+c) Visit of more than 06 months in continuation:  3 Compensatory Leaves
+
+All the other rules of Casual leaves will apply on this category of leave when being applied for.
+
+6.2.6 Maternity Leaves
+● A female employee who has completed 2 years of service as permanent employee, excluding the  probationary period with the Company is eligible for two months maternity leaves which includes the period before and after the birth at full pay. In addition, she may take further 01 months unpaid maternity leave, subject to approval from her Line Manager and  the People Excellence Department.
+● If the employment duration is 1 - 2 years then the female employee is eligible for 1 month paid and  1 month unpaid Leave.
+● Maternity leave will be granted without pay if the employee has not completed one year of service.
+● Maternity leave approval shall be granted after the seventh month of pregnancy.
+● Leave on account of miscarriage, abortive measures or premature birth occurring during the first 7 months will be considered as normal Medical/annual leave.  
+● A maternity leave application should be submitted at least three months prior to the date of commencement of leave and such application should be supported by a medical certificate issued by a practicing doctor.
+6.2.7 Paternity Leaves
+● Paternity leave is the time off a father takes off from work  for the birth of his child.  
+● A confirmed employee is entitled to two (02) days leave at the time of birth of his child. Employees must take their paternity leave in one go rather than odd days off.
+● Employees must pre-plan their paternity leaves and notify their expected dates to the office in order to minimize the impact of their absence on their work and functioning of their team.
+● Paternity Leaves need to be applied for with at least one months’ notice and if you intend to take the leaves together with annual /casual Leave then it needs to be applied 2 months in advance.
+● All other rules of Casual Leaves will apply on this category of leaves.
+
+6.2.8 Marriage Leave
+
+All the permanent employees are entitled to paid marriage leave of two days (02) applicable once in a lifetime. If an employee gets divorced and marries again, he/she will not be entitled to any wedding leaves for the second time. Wedding Leaves need to be applied for with at least a 03 months’ notice and the leaves can be taken together with annual /casual Leave if applied in advance. All the other rules of Casual leaves will apply on this category of leave.
+
+6.2.9 Compassionate Leave
+
+A confirmed employee is entitled to a compassionate leave for 3 working days in the case of death of the employee's immediate family viz. parents, spouse, children, brothers, sisters and parents-in-law.
+
+6.2.10 Carrying forward of Leaves
+We do not encourage our employees to let the Calendar Year pass without enjoying all of the free time that has been made available to them. 
+The Following type of leaves can be carried forward upon the discretion of management and special approval from Line Manager after the case has been reviewed by the People Excellence Department:
+
+● Compensatory leaves earned in the months of May and June can only be carried forward to the next year if not used. .
+● If an employee is expecting a life event in the next year, then his/her Annual leaves can be carried forward to the next year and these leaves be utilized only for the same life event in the following year. These leaves  however, will lapse if not used after the end of next year. 
+● At any point in time any employee cannot have more than 14 annual leaves in his account, the excess leaves will automatically lapse and not be adjusted in the quota.
+● Annual Leaves can be carried forward if the employee has applied in advance for availing the annual leave i.e. before march but due to nature of work Line Manager did not allow the employee to use the annual leaves then these leaves can be carried forward to the next year. This request must be in writing and employees need to ensure they show written evidence where they had applied for the leave, but  could not take the leave due to managers request. .  
+● Please note that no other leave can be carried forward other than Annual Leaves and Compensatory Leaves .
+
+6.2.11 Unpaid Leaves
+Unpaid leave refers to time off from work during which the employee does not withdraw any salary. Employee can take unpaid leaves if the employee's leave quota has been exhausted. While applying for unpaid leaves an employee shall undergo following steps:
+● Any unpaid leaves taken shall require an approval from the reporting manager.
+● Any unpaid leaves taken shall require an approval from the People Excellence Department.
+● All the unpaid leaves taken in continuation of weekend or any public holiday shall be considered unpaid (Weekend and Public Holiday will be unpaid as well).
+
+
+7. MEDICAL/HEALTH INSURANCE POLICY
+
+7.1 Medical / Health Insurance (Salaam Takaful Limited)
+
+The purpose of this policy is to outline the medical facilities provided by Kualitatem Pvt Ltd. To its employees and their family. 
+SCOPE
+This guideline applies to all the permanent staff of Kualitatem Pvt Ltd.
+POLICY
+ 
+All the permanent employees are eligible for the medical facility covered under the medical insurance guidelines as announced and updated from time to time. Kualitatem Pvt Ltd. provides best medical coverage through its insurance partner. Medical policy covers the illness treatment, hospitalization, maternity & related cases as prescribed by registered doctors only. Regular annual medical checkups are not covered under medical policy.
+
+WHAT IS HEALTH INSURANCE?
+ 
+i)         Health Insurance, is a facility, like other forms of insurance, for the compensation of the expenses arising out of illness and bodily injury
+ii)       Health or Medical Insurance means providing medical benefits through an insurance company
+WHO IS COVERED?
+
+1.	All full time permanent employees who have not reached their Sixty-fifth (65) birthdays and are ACTIVELY AT WORK. Eligible dependents are spouse and unmarried dependent children, sons up to age 25 years and daughters till they are married/Employment, residing permanently with the employee in his country of residence.
+2.	ACTIVELY AT WORK refers to an employee being actively at work on a full-time basis with the Policyholder, and who is not granted an unpaid leave of absence, temporarily laid off or placed on part-time employment.
+3.    An employee is required to communicate full particulars of his/her family stating their names, relationships, and ages with birth certificates of dependent children. Any changes in status of employee’s family must be communicated immediately to the Company.
+
+IN-PATIENT MEDICAL INSURANCE
+What is covered in In-Patient
+·          Inpatient is defined as hospitalization
+·          Hospitalization benefits include:
+           Hospital services and supplies during confinement such as:
+·          Physician’s, surgeon’s or anesthetist’s fees; (As per the standard DoctorFee)
+·          Operation theater charges;
+·          ICU/CCU confinement:
+·          Any other medically necessary inpatient services
+·          Pre hospitalization (30 days pre): Prescribed tests only
+·          Post-Hospitalization (30 days post): Consultation + prescribed medicines only
+·          Pre-existing Conditions: Covered for existing insured's
+·          Congenital Conditions: Covered
+Scope of Coverage
+·          Per person per annum
+·          Health Benefits: – Hospitalization
+·          Employees and spouse up to age 65
+·          Maternity cover up to 45 years
+·          A dependent son up to age of 25 and a dependent daughter till her marriage or is employed.
+ 
+ 
+ 	
+ 		
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Day Care Procedures
+·         Lithotripsy
+·         Endoscopy
+·         Gastroscopy
+·         Dilation and Curettage
+·         Partial Mastectomy
+·         Tonsillectomy / Adenoidectomy
+·         Veins / Varicose (surgery)
+·         Non-Malignant tumors / Abscess
+·         Cholecystectomy
+·         Herniorraphy
+·         Appendectomy
+·         Septoplasty
+·         Fissurectomy
+·         Hemorrhoidectomy
+·         Cataract surgery
+·         Glaucoma surgery
+·         Angiography
+·         Chemotherapy (for malignant cancer only)
+·         Radiotherapy (for malignant cancer only)
+·         Dialysis
+·         Fistula creation surgery Etc.
+
+Additional Benefits
+·  International Cover The policy covers emergency hospitalization during overseas travel of insured persons. However, the hospitalization expenses will be reimbursed in Pakistan in Pak-Rupees on the basis of what it will cost for a similar procedure to be carried out in Pakistan.
+·  Complimentary Cover of Accidental Injury The per annum limit for each category is automatically increased in case of hospitalization due to an accidental injury.
+·  Congenital Ailments Treatment for Congenital Ailments are covered  upto 100 % of hospitalization Limit
+·    Hepatitis B & C Treatment for Hepatitis B & C (oral & Injectable) are covered upto 100 % of Hospitalization Limit for employees, spouses & children whereas 50% of hospitalization limit for Parents
+    How to Submit a Claim
+·      Please read the claim form carefully and fill out your details as per the instructions
+·      Copy of Health card and CNIC need to be attached with the form.
+·      1st page needs to be filled by the employee and its declaration duly signed.
+·      2nd page is to be filled by treating Doctor and duly signed and stamped by Hospital/Doctor.
+·      Original Hospital itemized bill with stamp and all original cash receipts need to be attached with the claim.
+·      Copies of prescriptions, tests reports, birth/death certificates need to be attached where required.
+·      Employee contact number and e-mail needs to be provided, so that claims team can contact directly for any queries.
+·      Completed Form with all documents must be submitted in HR.
+Key Exclusions under Hospitalization Plan
+l   Dental treatment, Acupuncture, Herbal medicine, Insomnia, Vaccinations, Infertility treatment, Cosmetic treatments, Anorexia, Obesity & Baldness.
+l Self-inflicted injury while sane or insane; treatment of chronic alcoholism, drug addiction.
+l Injury or illness resulting from a riot, strike or civil commotion (active participation only), or from the performance of unlawful act.
+l   Hospitalization for investigation purposes (workup), OPD Department treatment
+l Supply or fitting of hearing aids, expenses incurred on account of but not limited to Durable medical appliances (e.g. nebulizer, thermometer, glucometer, BP apparatus, etc.)
+l Optical Accessories/treatment, Psychiatric treatment, AIDS & its related diseases
+l Eye Glasses, Lenses, Contraceptive Devices, Induction of Ovulation, Food Supplements e.g. Vitamins, Milk ,Pampers, Tissues, Telephone Charges etc.
+
+7.2 Medical OPD (OLADOC)
+a. Purpose
+Kualitatem Pvt. Ltd is committed to ensure the health and safety of all the employees. Our goal is to provide and maintain a healthy and safe working environment, with a view to continuous improvement. For this purpose, we offer our employees medical care benefits.
+The OLADOC collaboration with the company provides employees with Medical OPD benefit. Employees will be able to book an appointment with the best doctors at home through unlimited video consultation (Appendix.1- App Demonstration). Also, they can visit the clinic of panel doctors through a pre-booking facility. Panel list of doctors contains General Physicians and Specialists as per employee need.
+b. Objective
+	To describe a procedure for the OPD Medical Check-up for all the employees in the company
+c. Scope
+This procedure is applicable to all the employees in the company; Exceptions hold for fresh candidates until they complete one year of permanent employment with the company in order to be eligible to avail this benefit. 
+d. Policy
+l Employee will be registered with the OLADOC after his/her confirmation status
+l The benefit will revoke once employee leaves the company
+l 7 days a week call center helpline availability for the employees
+l The policy covers employees’ parents, spouse and kids; free of cost
+l Employees need to book an appointment to connect with the panel doctors at their available slots
+l Video consultation with the panel specialist doctors with more than 20 specialization will be unlimited and free
+l 10% Discount on OPD Doctor appointments & Lab tests booked through OLADOC
+l Employees will get 10% discount only if, they book an appointment through OLADOC app and make a pre-payment to avail this discount
+l  Discount will be given only for GOLD tab doctors
+l OLADOC will be responsible to connect employees with the doctors for video consultation
+l OLADOC will inform employees beforehand if doctor is not available on booked time slot due to some unforeseen reason; however, not fully responsible
+l  Compensation if doctor does not show up for the appointment:
+Pre-payment will be secured and refund will be transferred immediately by the OLADOC team
+The appointment can be rescheduled with the same doctor as per employees’ preference
+Appointment can be scheduled with the new doctor
+
+e. Procedure
+l The People Excellence department will share the Medical facility form (link in appendix 2) with the employee to obtain required details to register them with OLADOC; once he/she is confirmed.
+l The details will be added in the addition list file for the OLADOC (link in appendix 3); this sheet will be shared with the OLADOC representative on the 25th of every month
+l People Excellence department will share the list of employees who will be leaving the company to revoke their access with the OLADOC representative on the 25th of every month
+       f. User Guide to Book an Appointment.
+Steps to book a consultation through Oladoc corporate wellness Plan:
+
+1.Download Oladoc Application from Playstore/Appstore.
+
+2. Scroll to Do you have corporate insurance and then Click on Connect Now Tab.
+
+3. Enter your Registered Mobile number (which you provided in the excel sheet) 
+
+4. Select General Physician online/Consultation with Specialist.
+
+5. Click book appointment and consult online with the doctor on the selected slot.
+
+7.3 Health Insurance 
+
+8. TRAVEL POLICY
+
+8.1 OBJECTIVES
+
+ The Company shall provide appropriate travelling facility to employees required to travel on Company       business, transfers, and/or training/orientation assignments and in accordance with the limits laid down by the policy. 
+This document provides guidelines and establishes procedures and entitlement for travel, boarding and lodging for Employees, while traveling within the country or out of the country on official work
+
+Employees and line managers are responsible for ensuring that business travel is kept to a responsible and reasonable level and that the travel is justified.  Alternatives such as teleconferencing should be taken into account. Wherever possible travel should be planned well in advance, to ensure that the company can take advantage of special rates, corporate discounts, agreements and arrange the TA/DA in Advance.   
+
+8.2 General Guidelines for Local and International  Travel
+
+1. When travelling locally or internationally, air travel will be provided if available between two cities/countries . Otherwise, daewoo express or equivalent mode of transportation will be provided.
+2. When traveling locally or internationally, the company will provide transportation from your home to get to the airport/bus terminal and actual receipt of Uber/Careem will be reimbursed for that apart from TADA..
+3. When travelling locally or internationally, the company will provide transportation from the airport, to get to the hotel/client site and actual receipt of Uber/Careem will be reimbursed for that apart from the TADA .
+4. For all local travels (within Pakistan) ,  the company will provide daily transportation from the  hotel to the client location and from the client location back to hotel apart from the regular daily TA DA and actual receipt of Uber/Careem will be reimbursed for that. 
+5.  For all international travels (outside Pakistan),  the company will not provide transportation from the  hotel to the client location and from the client location back to hotel and this is to be managed from your daily  TADA as the amount is already included in it. In case the hotel arranged is quite far from the client location and the daily travel amount exceeds 40 AED/SAR (one way), then the amount exceeding can be claimed for reimbursement with pre-approval for all  travels within the Middle East.  
+6. For International Travels outside of Pakistan , visa , air ticket, and hotel accommodation will be arranged and paid by the company.
+7. If there is a company operated guest house in a destination city, preference will be given to utilize rooms in the guest house. 
+8. Hotel bookings will be arranged by the Company and hotel bills will be paid directly by the Company.
+9. Hotel arrangement will be based on the company preferred hotel list which will be updated from time to time.
+10. Public transport such as shuttle services or trains shall be used to and from airports if available.
+11. Taxis should be avoided when travelling long distances except in countries where a taxi is the normal means of transport.
+12. Employees are to settle hotel bills, car rental and any other business related expenses directly using a credit card or travel advance if needed. 
+13. The level of hotel (if needed) when travelling on company business, should be approved by the line manager in advance.  Wherever possible, hotel bookings should be made using the services of fellow Kualitatem companies, to ensure that the Company can take advantage of all available corporate discounts and packages.
+14. Travel facilities exist to facilitate the execution of business ONLY. The policy covers local and international travel and other incidentals.
+
+8.3 LOCAL TRAVEL - Travel within the country:
+
+                             Boarding, Lodging  & Transportation for Local Travels(Within Pakistan)
+
+● When travelling locally or internationally, air travel will be provided if available between two cities/countries . Otherwise, daewoo express or equivalent mode of transportation will be provided.
+● In case the employee misses the flight/bus, then he/she will be fully responsible to bear the full cost of the ticket. 
+● When traveling locally  the company will provide transportation from your home to get to the airport/bus terminal and actual receipt of Uber/Careem will be reimbursed for that apart from TADA.
+● When travelling locally, the company will provide transportation from the airport, to get to the hotel/client site and actual receipt of Uber/Careem will be reimbursed for that apart from the TADA .
+● For all local travels (within Pakistan) ,  the company will provide daily transportation from the  hotel to the client location and from the client location back to hotel apart from the regular daily TA DA and actual receipt of Uber/Careem will be reimbursed for that. 
+● If the intercity travel requires overnight stay, the company will provide hotel stay of reasonable standard near the project destination. The hotel stay will be arranged and paid for by the company. 
+● A daily TA DA allowance of PKR 2,500/- can be claimed with the prior approval of the senior manager / management for the requested travel.
+● TA DA will be paid with Rs. 2,500/= to cover 2 time meals and other expenses for all employees (i.e) Test Engineer to SDM’s or Associate Software Engineer to Principal Software Architect/ Project Managers. 
+● TA DA will be paid in advance with 2,500/ daily = to cover 2 time meals and other expenses before the travel date. Any expense exceeding the TA DA limit will be borne by the employee himself. 
+● Daily allowance will be paid in full if the flight departure time starts from early in the morning. Similarly on the return date, departure is in the  evening or day end. Otherwise the daily allowance will be paid half of the amount or the actual taxi and meals will be paid on producing the invoices.
+● For local travels(within Pakistan), employees will be eligible for the daily allowance only in case of travel beyond 100km of Kualitatem’s office location or employees base location. Employees must maintain the receipts of their travel for reimbursement. 
+● When travelling by public transport, the actual cost will be compensated. In case of the use of public transport or cab, original receipts will be required for reimbursement.
+● When employees use private vehicles for business, they will be required to submit the receipt of the costs incurred. 
+● For Travel between cities: employee will be given a) Toll + Daewoo ticket for single person taking the car b)  Toll + actual fuel reimbursement for two or more people sharing a car. 
+● The Department Head, People Excellence and  Admin and Finance Manager will approve all domestic travels.
+● For Travels within the city (Intercity) : If an employee goes to the  client location from his base office location/residence, then he will  be entitled to claim KMs from his base office location/residence to the client location and back. Rs. 18 per km will be reimbursed or actual Uber/Careem receipts can be claimed for reimbursement if personal cars are not being used.  Prior approval and intimation is necessary to inform the mode of transport being used. 
+NOTE: The Company will not pay for any fines or other impositions resulting from offences by the employee.
+
+8.4 INTERNATIONAL / OVERSEAS TRAVEL (Outside of Pakistan)
+
+8.4.1 Boarding, Loding, Transportation and Daily Allowance
+
+● For When travelling internationally, air travel will be provided between two countries . 
+● In case the employee misses the flight, then he/she will be fully responsible to bear the full cost of the ticket. 
+● When traveling  internationally, the company will provide transportation from your home to get to the airport/bus terminal and actual receipt of Taxi/Uber/Careem will be reimbursed for that apart from TADA.
+● When travelling internationally, the company will provide transportation from the airport, to get to the hotel/client site and actual receipt of Taxi/Uber/Careem  will be reimbursed for that apart from the TADA .
+● For all international travels (outside of Pakistan), the company will provide hotel stay of reasonable standard near the project destination. The hotel stay will  be arranged and paid for by the company in advance. 
+● Whilst on business travel, the employee will be paid a Daily TA DA in advance and will be entitled to this  daily allowance according to the country of travel as communicated according to  the Overseas Travel Plan 
+● TA DA will be paid in full if the flight departure time starts from early in the morning. Similarly on the return date, the departure will be either in the evening or day end to be paid in full. Otherwise the daily allowance will be paid half of the amount or the actual taxi and meals will be paid on producing the invoices.
+● Employees taking up international assignments must abide by the code of conduct (must be signed by the visitor before commencement of the International visit) and guidelines.  
+● The TA DA shall vary from country to country and be given to cover basic living and travel for work expenses of the employee. Any personal expenses shall have to be managed by the employee.
+● The TA DA is a lump sum for the purpose of compensating the personal expenses such as private meals and official travel to client sites. An amount of AED/SAR 183 = 50 USD per day or equivalent is fixed for travels to  Middle East countries.
+● The TA DA will be paid by the company in employees PKR account and the resource can withdraw the cash through their debit cards in the visiting country. The company will pay the exchange rate difference provided the actual receipt showing the exchange rate difference and any charges incurred is provided.  
+● All Employees traveling internationally (outside Pakistan) are provided medical insurance that can be claimable outside the country as per the terms and conditions of the medical policy. The document for medical insurance is provided before the travel
+●  All Employees traveling internationally (outside Pakistan) can claim their travel from the hotel to the vaccination center and from the vaccination center back to the hotel for Covid-19 shots, provided the actual claim receipt of the taxi is provided. 
+● All Employees traveling internationally (outside Pakistan) if needed to get their laptops/systems repaired can claim their travel from the hotel to the market and from the market back to the hotel,  provided the actual claim receipt of the taxi is provided along with IT departments approval/ recommendation asking them go to the market for the required repair.
+● All Employees traveling internationally (outside Pakistan) are encouraged to keep their credit cards with them in case they have to make any payments on behalf of the company. In such scenarios, the company will  reimburse the actual payment + exchange rate difference + credit card expenses for the international transaction, provided the receipts are provided for the charges. 
+
+
+8.4.2 Rest Leaves on completion of project
+
+After any overseas travel, the employee will be given compensatory leaves for his/her domestic task. 	
+● Visit of less than 1 month, 1 compensatory leave will be awarded.
+● Visit of more than 1 month and less than 6 months, 2 compensatory leaves will be awarded.
+● Visit of more than 6 months, 3 compensatory leaves will be awarded.
+● Any other leaves will be treated as per the standard leave policy of  Kualitatem.
+     8.4.3        Bonus on completion of project
+After any overseas travel, the employee will be given a bonus as follows: 
+l Our consultants who are onsite for a minimum of 06 Months on International projects will be given a One Month Salary as an Assignment Bonus upon successful completion of the project. 
+Employee shall not be eligible for the Bonus if:
+The employee has taken leaves for personal reasons on his/her return back to Pakistan during the total duration of 6 months  on-site (Ex. Employee takes a leave for 1 or 2 weeks) and then returns back onsite to complete the  remaining duration. 
+- In this case the  the timer  will reset to 0 months and start again in order to be eligible for the bonus of 1 month		 extra salary
+Employee shall be eligible for the Bonus if :
+- The employee comes back to Pakistan after a duration of (Ex. 3 months) in order  to renew his exit/ re-entry and returns back as soon as that is done.
+- In this case the timer will not reset and on completion of 6 months and resource will be eligible for 1 extra bonus salary. 
+
+8.5 Expense Claim Process
+
+Any expense incurred, requires a submission of an expense claim form along with original receipts to claim for reimbursement.  The Request for Expense Claim has to be generated by the employee. This should be done by sending an email to the PE Department and the email should contain clear pictures of all the receipts to be claimed along with details mentioned in the expense claim form. The expense claim will be assessed and approved by the Manager People's excellence and sent further to be  processed by Finance Department. 
+The Finance Department will then disburse the reimbursement within 15 days once the expense is claimed. If the employee does not generate the request and get the claim approved by the PE Department within 15 Days (actual date of expense/return from travel) then the reimbursement can get delayed for an undefined period of time.
+8.6 Advance Against Expenses for all Local and International Travels/ Office Purchases/ Maintenance/ Expenses of Similar Nature
+
+  For the purposes of travelling, purchases, office maintenance & other expenses of similar nature, permanent employees of the company, shall be given an Advance to be settled on a monthly basis against Expenses that will not exceed the estimated cost.  
+In case of advance against travelling expense, if the employee’s accommodation and travel is arranged by the company, the amount of advance shall be estimated as an amount equal to the expected Travelling and Daily allowance and will be calculated and settled on a monthly basis from the employee’s salary if the travel is more than 30 days.
+If the accommodation and or travel is not arranged by the company, the amount of advance shall be estimated as an amount equal to the expected Travelling and  Daily allowance plus the estimated cost of accommodation and or transportation, as the case may be and be settled on a monthly basis from the employee’s salary if the travel is more than 30 days.
+If travel is less than 30 days, the employee, on completion of the activity / travel against which an advance has been taken, must, within fifteen days, submit original bills along with a statement of account, duly approved by People Excellence and Finance Manager through email on hr@kualitatem.com and finance@kualitatem.com.
+ In all cases other than travel, the amount of the advance shall be estimated as the amount approved in the pertinent “Expense Claim Form” under the purchase process of the company. To avail the facility of an advance against expenses to be incurred, the employee must obtain from, complete and return to People Excellence and Finance & Accounts Department a “Request for Advance”- “Expense Claim” form. The form must be duly approved by the People’s Excellence Team and incase of travel, the travel must be approved by the functional head. 
+No request for advance against expenses will be entertained unless any previous such advance has been completely settled. However, where a previous activity for which advance has been taken is not yet completed, an advance for fresh activity could be given, subject to the approval of People’s Excellence.
+If an employee is applying for an advance against travel more than once in a month, a separate application for advance against travel can be made and will follow the same approval process as outlined above. In case of non-submission of original bills along with the statement of accounts, the company reserves the right to reject the settlement of account of the employee and settle the advance from existing salary within 15 days of completion of activity if the travel is less than 30 days and on a monthly basis if the travel is more than 30 days. 
+Furthermore, in case of default by the employee in settlement of his/her account, the company reserves the right to deduct the unsettled amount from the salary/employee fund payable to employee.
+        Furthermore, in case of default by the employee in settlement of his/her account, the company reserves the right to deduct the unsettled amount from the salary/employee fund payable to employee.
+The employee can claim the following expenses in Advance/before the actual day of Travel
+1. TA/DA (Includes Meal Allowance & Commute Expense to/from place of stay to Project’s Location)
+2. Hotel Rentals (If not booked/Paid by the company in Advance)
+3. Fuel Allowance (If taking own Car)
+For claiming in advance the employee should generate a request to the PE Department by sending an email and listing down all the expenses expected to be incurred in detail. The detail must contain 
+1. The Project’s Name the employee will be deployed on.
+2. Estimated Days of stay
+3. TA/DA will be given as per the company’s policy.
+4. A quotation of all the hotel rentals (If not booked and Paid by the company).
+5. City the employee will be travelling for Fuel Allowance. 
+
+8.7 Notes on Visa & Passport
+
+o Employees may be required to travel for work on international assignments. Company is responsible for arranging visas for any business travel for the employee only (No family member or Friend will be entertained). 
+o Employees MUST have their own passports and are responsible for any renewals of their official travel document. This is the responsibility of every employee to renew his or her passport on time. Before going for any travel abroad, make sure that passport expiry date has not been reached in near future to avoid any inconvenience and delay.
+o Cost incurred on visa protector and related expenses like medical and travel insurance will be reimbursed as per  actual. But the other expenses like renewal of passport, travel for passport renewal will not be reimbursed. 
+o If an Employee is requested to get a renewal done or passport made on urgent or super urgent basis (depending upon the urgency of the travel) then the company will be responsible to be pay the difference of standard passport fee and Urgent/Super Urgent passport fee. No fee will be reimbursed if the passport is being made on regular basis. No fee will be reimbursed if the employee is unable to provide a payment proof or token received from the passport office.
+
+8.8 THINGS TO REMEMBER 
+
+● Outstation visits cannot be undertaken without prior approval of Management. 
+● The employee cannot  arrange and book his stay in a hotel himself ,without prior approval from the management.  
+● If allowed to book the hotel directly, then the charges will be reimbursed as per the claim process defined above. Hotel bills along with expense claim forms  should be provided to the PE  department and settled within 15 days.. 
+● Any bill in excess of the allowed limit would not be entertained. 
+● Any amount in hotel bill except room rent will be charged to team member’s account. 
+● In case the project duration is more than a month, the TA DA will be paid to the employees through bank transfers or through cash on a monthly basis. 
+● The TA DA is a lump sum for the purpose of compensating the personal expenses such as private meals and official travel to client site. 40 SAR/ AED is specifically dedicated for your official travel / commute to the client site, however incase your daily travel or commute to client site, exceeds 40 SAR/ AED , then any amount exceeding 40 SAR/AED can be claimed for reimbursement separately apart from your daily TA/DA.
+
+9. OFFICE FURNITURE SUPPLY & INSTALLMENTS 
+
+	9.1 Scope
+
+This policy is applicable to all employees of the company
+
+9.2 Objective 
+
+To facilitate the employees in their Home Office set up by providing the office furniture on the subsidized rates and easy installment plans. 
+
+l Company will pay the entire amount of the item purchased in full to the vendor (Chairish)
+l The Amount will be adjusted against the employees monthly salary over a time period of 06 months (Maximum). The number of installments can be reduced as per employee’s discretion.
+l Please note that the office furniture / Home office set up is not a company sponsored perk or benefit. The company aims to facilitate the employee with easy installments. The amount which the company has paid for procuring the furniture, is supposed to be paid back by the employee.
+l Please note that no receipts for any type of furniture purchased will be reimbursed.
+l The company is currently associated with one Vendor only with the name of “Chairish”.
+l Purchases made with any Other brand or Vendor will not be facilitated in any way.
+l The employee shall reach out to the PE Department first for instructions.
+l No direct contact with vendors will be facilitated.
+
+9.3 Policy & Procedure
+
+l To avail the facility the employee should reach out to the PE Department so that a formal request can be made with the official Vendors.
+l Before selecting any item and placing the order, employees should take PE Department’s assistance. 
+l The PE Department will provide you with different options to select the furniture from. (The items can be customized as well and the price might vary from the presented quotes by the PE Department)
+l Once selected the item of the choice Employee shall drop a formal email to PE Department informing them regarding the item to be purchased.
+l The PE Department will forward the request to finance so that an intimation for the payment could be made.
+l Finance will pay a cheque against the Invoice received from the Vendor.
+l Employee will pay the delivery charges if he/she wishes the furniture to be delivered to his/her mailing address.
+l Once the Cheque is delivered/Payment has been made to the vendor PE Department will inform the resource to pick the item up from showroom/Intimate about the delivery.
+
+10. OFFICIAL DRESS CODE
+
+10.1 Scope
+
+This policy is applicable to all employees of the company
+
+10.2 Objective
+
+To establish a dress code that enables employees to project a professional image of Kualitatem Pvt. Ltd. within and outside the company environment while experiencing the comfort of more casual and relaxed business clothing.
+
+10.3 Dress Code Guidelines 
+
+Management of Kualitatem Private Limited understands that the success of our business is determined partly by establishing and maintaining a professional business atmosphere. How the employees dress up and how they conduct themselves at the workplace determine the environment. Employees who are inappropriately dressed, in the opinion of supervisory personnel can be warned about the dress code. Employees are required to be dressed as per the following guidelines:
+
+10.4 For Male Association
+
+From Monday to Friday
+Business Casual: Trousers, khakis and jeans with shirt or Polo T-shirt neatly ironed and dress shoes. Casual shoes such as slippers are not allowed.
+Business Dress: Business suits/ trousers with shirt and tie neatly ironed, along with dress shoes with socks is required for formal meetings, with outside visitors/ clients etc.
+Shalwar Kameez with waist coat, clean jeans, with casual/polo T-shirts are allowed. Casual footwear like slippers are not allowed.
+
+10.5 For Female Association 
+
+Females are advised to dress up in properly ironed, clean and sober, Shalwar Kameez or business casual.
+
+11. REHIRING POLICY
+
+11.1 Policy and Brief Purpose
+
+Our employee rehire policy defines rules for rehiring former employees. Sometimes, we may find it more beneficial and cost-effective to hire employees we trust who left Kualitatem Private limited for various reasons. This policy will outline circumstances under which former employees might be rehired and any relevant guidelines.
+
+11.2 Scope
+This policy applies to former employees who left Kualitatem Pvt. Ltd. on a permanent basis.
+11.3 Policy Elements
+
+This policy will not prohibit any former employee from applying to a position. But, it will outline cases in which we can consider any former employee for rehire.
+To be considered for rehire, former employees should have left the company for one of the following reasons:
+● Voluntary Resignation
+● Closure of Business & Project
+● Expired Contract
+
+11.4 Eligibility Criteria for Rehire
+Former employees should have:
+● Completed their probationary period during the first service.
+● Performed at the desired expectation level while employed by our company
+11.5 Procedure
+
+When an employee applies for a position or contacts our company about rehiring, the following procedure should be followed:
+
+● The People Excellence department reviews personnel records to decide whether the employee is eligible for rehire.
+● In case business refers any former employee, Business will inform People Excellence about his/her previous affiliation with Kualitatem Private Limited.
+● If they are eligible, Head of People Excellence will approve. If they are not eligible, PE department should inform the department with the reason. Rehiring approval from the CEO will be required to open the case.
+● If they are qualified, the Recruitment Team will contact the former employee and make necessary arrangements. These arrangements include (but are not limited to) an interview, or a direct job offer. If they are not qualified, the Recruitment Team may inform the applicant. Eligible former employees may still apply for a different position.
+● Reference check will also be taken from the previous Reporting Manager / Line Manager for all cases.
+● If qualified, the applicant would have to go through the same hiring process that will be followed for any other candidate. The selection will be done on merit.
+
+At any moment, the company may choose to contact former employees proactively. Their eligibility should be established beforehand.
+
+11.6 Fair Decision 
+
+Our company is committed to equal opportunity practices. While hiring, we do not discriminate based on any circumstances.
+
+12. CONDUCT AT WORK
+
+12.1 Kualitatem Pvt. Ltd Code of Ethics
+
+a. Kualitatem Private Limited is firmly committed to complying with its legal and ethical obligations. As a result, we expect all employees, at every level within the company, to comply strictly with all legal and ethical obligations. Our philosophy can be implemented only if our employees recognize their responsibility to treat everyone in an honest and fair manner. Accordingly, an employee’s failure to fulfill his or her responsibilities under this policy may result in disciplinary action, up to and possibly including immediate termination.
+b. Kualitatem Private Limited holds all employees responsible for carrying out and monitoring compliance with this commitment. If any employee becomes aware of any violation of a legal or ethical obligation, or any unfair or improper treatment of personnel related to the company, they must immediately report the matter to the People Excellence Department so that it can be investigated right away. In this manner, we can take all necessary steps to investigate any potential violations of our policy and can take appropriate action to correct any violations or incorrect perceptions that are found to exist. By making it the responsibility of all employees to police compliance with our ethical standards and commitment to complying with all legal responsibilities, we can continue to maintain our reputation in the community.
+c. Employees should feel free to report any information regarding this policy without fear of reprisal or retaliation of any kind. Employees can report information to the People Excellence Department in confidence if they wish. Kualitatem Private Limited will treat such information as confidential to the extent it can do so without failing to fulfill its obligations. In addition, employees who do not wish to identify themselves can report information anonymously.
+
+12.2 Conflicts of Interest
+
+a. All employees are expected to devote their best efforts and attention to the performance of their jobs. They are expected to use good judgment and adhere to high ethical standards and to avoid situations that create an acute or potential conflict between employee’s personal interests and the interests of the Company. The conflict of interest exists when the employee’s loyalties or actions are divided between the Company’s interests and to those of another, such as, competitors, suppliers or customers. Such things should be discussed with the immediate Manager or People Excellence for clarification. Any exceptions to the guideline must be approved in writing by the People Excellence Department.
+b. While it is not feasible to describe all possible conflicts of interest that could develop, some of the more common conflicts from which employees should refrains include the following:
+● Accepting personal gifts or entertainment, commission from competitors, customers, suppliers or potential suppliers.
+● Engaging in self-employment in competition with the employer.
+● Using proprietary or confidential company information for personal gain or to the company’s detriment.
+● Having a direct or indirect financial interest in or relationship with competitor, customer or supplier, except when that ownership is of less than 1 percent (1%) of publicly traded stock of a corporation.
+● Developing a personal relationship with a subordinate employee that might cloud judgment in discussions/ decisions affecting Kualitatem Pvt. Limited, or any of its employees.
+● Using Company’s assets, labor or employees for personal accounts.
+● Committing the Company to give its financial or any other support to any external party without prior authorization from the senior management.
+
+c. If any employee or a family member/ friend of an employee has a financial or employment relationship with a competitor, customer, supplier or potential supplier, it is the employee’s duty to disclose this fact in writing to the People Excellence Department. All employees should be aware that if they enter into a personal relationship with a subordinate employee or a co-employee, an employee of the competitor, supplier or customer, a conflict of interest may exist which requires full disclosure to the management of the Company.
+d. Failure to adhere to the guideline including failure to disclose any conflict or seek any exception will result in disciplinary action.
+
+12.3 Display of Religious Material 
+
+Kualitatem pvt. Limited encourages both diversity and harmony in its workforce. To this end employees are expected to display due courtesy and be sensitive to the beliefs of other colleagues. Any overt display of religious verses, artefacts etc is discouraged and must be confined to personal workspaces.
+
+Distribution of religious material (for example extracts from any Holy Book, images of holy places) in any shape or form is strictly prohibited within the offices of Kualitatem pvt. Limited or office networks.
+
+Employees are also advised to refrain from discussion on religious topics and themes within the office.
+
+12.4 Representation of Company
+
+ Being an employee of Kualitatem Pvt. Limited does not automatically confer the right to the employee to act on behalf of the Company. This also pertains to the right to make statements to the press or to any other person or body on behalf of the Company, and to issuance of reference letters for employees.
+
+12.5 Trade Secrets and Confidentiality Agreement
+Kualitatem Pvt. Limited insists on the undivided loyalty of all employees, including management and non- management staff. Employees must not engage in any conduct that would create an actual or potential conflict of interest or create the appearance of such a conflict. 
+
+The protection of confidential, sensitive, and proprietary information is of critical importance to Kualitatem Pvt. Limited, its workforce, and its clients. It is therefore essential that all employees take steps to safeguard such information. Employees must not use any confidential, sensitive, or proprietary information of Kualitatem Pvt.  Limited in any manner that is unauthorized or detrimental to the best interests of the company.
+
+12.6 Acceptance of Gifts
+Employees are not allowed to receive personal gifts or any kind of benefits from customers or suppliers without first checking with the management.
+12.7 Absenteeism and Tardiness
+
+a. It is the duty of every employee to report for work on time every day, except in cases of illness or when the employee is on approved leave. Absenteeism or tardiness makes proper work scheduling difficult and also imposes additional hardship on fellow employees who may have to take over the work.
+
+b. Advanced notice of absence must be given to the immediate Manager. If some unforeseen situation has arisen, the employee concerned should make every effort to notify his immediate superior as early as possible.
+
+c. Disciplinary action will be taken against an employee proceeding on unauthorized leave. The Company shall have the right to terminate the contract of service where an employee absents himself without prior approval and proper reason for two continuous days.
+
+12.8 Standard of Personal and Professional Conduct
+
+Kualitatem Pvt. Limited requires that all of its business be conducted with the highest legal and ethical standards. The purpose of this policy is to set forth basic principles and guidelines to direct employees in the proper conduct of the business and personal affairs as representatives of Kualitatem Pvt. Limited. The following standards are expected to be maintained by all employees, regardless of their position:
+
+a. Assure that all actions and behaviors promote the favorable image of the company, its management and its officers, whether on Company’s premises or representing the Kualitatem Pvt. Limited in any capacity outside the Company’s premises.
+b. Avoid potential conflict of interest and personal gain or any appearance of a conflict or impropriety.
+c. Promote the integrity, reputation, administration and operations of all the affairs of the company and avoid any conduct, whether on or off duty, that could cause embarrassment or disrepute to the company.
+d. Like all other organizations, Kualitatem Pvt Limited has established certain minimum standards of conduct that promote efficiency, productivity & cooperation among employees. For this reason, it may be helpful to identify some examples of conduct that are impermissible and that may lead to disciplinary action up to and including immediate termination. Although it is not possible to provide an exhaustive list of all types of impermissible conduct or performance, so sensible judgment should be used. The following are some examples:
+
+● Committing acts of dishonesty including falsification of, or making a material omission of forms, records, or reports
+● Disclosure of trade secrets or confidential information about Kualitatem Pvt Limited, its employees, or its customers and/or clients.
+● Working for a competitor, or establishing a competing business.
+● Engaging in altercations or any type of harassment, whether verbal, non-verbal or physical. Actual or threatened violence against co-workers, visitors, or any other persons who are on our premises or have contact with employees in the course of their duties.
+● Insubordination, including improper conduct toward a manager, or refusal to perform assigned tasks.
+● Theft, abuse, destruction, waste, or unauthorized use/possession of Kualitatem Pvt. Limited property, facilities, equipment or materials.
+● Possessing or bringing firearms or other dangerous weapons on Kualitatem Pvt. Limited property.
+● Unauthorized possession, use or sale of illegal substances on Kualitatem Pvt. Limited property, or reporting for work under the influence of illegal substances. Violating safety or health regulations or engaging in conduct that creates a safety or health hazard.
+● Excessive absenteeism or tardiness.
+● Misconduct.
+● Unsatisfactory performance.
+
+It should be remembered that employment is at the mutual consent of the employee and the company. Accordingly, either the employee or the company can terminate the employment relationship at will, at any time, either with or without cause or advance notice.
+
+13. DISCIPLINARY PROCEDURE
+
+Kualitatem Private Ltd.  may discipline employees where it deems that such action is warranted. Although all employment relationships are terminable at-will, at any time, either at the employee’s option or at the option of the company, Kualitatem Private Ltd. may exercise its discretion to administer a system of progressive discipline in cases where it deems it appropriate. That system may include various forms of discipline, such as verbal counseling, one or more written notices, and even termination. However, progressive discipline is not mandatory or binding. The company reserves the right to deviate from any formal system of discipline as necessary in any given circumstance.
+
+It is important that rules and regulations are observed and respected by all employees. Should any rules or regulations be either abused or broken, corrective action will be taken to help the employee and to protect the interests of other employees and the Company. The disciplinary procedure is to ensure that every employee will be treated fairly following a certain standard procedure.
+
+13.1 Oral Discussion or Warning
+
+Oral discussion or warning is simply a matter of calling the employee’s attention to the unacceptable situation. The purpose is to correct the unacceptable behavior and not to penalize or threaten the employee. If the employee manages to correct his or her shortcomings, no further action needs to be taken and the matter will be considered at an end.
+
+13.2 Written Warning
+
+A written warning may be issued when the oral warning fails to correct the employee’s shortcomings. In a written warning, full details of the employee’s deficiency will be recorded and a copy of the warning kept in his or her personal file.
+
+A specific time period may be provided for the employee to show improvement. During this stipulated period, the employee’s performance is closely monitored and specific objectives are indicated for the employee to meet. At the end of the stipulated period, the situation is reviewed to decide whether any further disciplinary action is required.
+
+13.3 Dismissal
+
+An employee may be dismissed from service if he continues to violate the Company’s rules and regulations. The above disciplinary procedure may be followed before dismissal is recommended but if the offence is considered serious enough, immediate dismissal may be implemented after or even without a formal inquiry having been held.
+
+14. SUBSTANCE ABUSE TESTING
+
+Kualitatem Private Limited maintains a strict policy against the use of unlawful drugs while at work or while on company premises. To facilitate the administration and enforcement of this policy, Kualitatem Private Limited may require or request employees to submit to drug or substance abuse testing under certain circumstances.
+
+In cases where an employee’s manager has reasonable suspicion to believe that the employee possesses or is under the influence of drugs and/or related substances and such use or influence may adversely affect the employee’s job performance, or the safety of the employee or co-workers, substance or drug screening may be ordered. This suspicion must be based on any objective symptoms, such as factors related to the employee’s appearance, behavior, speech and/or other factors. If an employee is on medically prescribed medication, it is the employee’s responsibility to advise his/her supervisor of this fact before he or she reports to work.
+
+Testing may also be required if an employee is found to be in possession of physical substances – either on their person or at their work station or locker - that could be connected with the use of an illicit drug. Such evidence includes, but is not limited to drugs, drug paraphernalia or alcohol. It should be emphasized that possession of drugs or alcohol on Kualitatem Private Limited property is prohibited whether or not it is determined that the employee also used such substances
+
+
+
+15. EMPLOYEE SECURITY AND WELL BEING
+
+Kualitatem Private Limited has attempted to provide you with a comfortable and efficient office work area. If you believe you need additional supplies or equipment to assist you in your work, or any changes for safety or ergonomic reasons, please inform the related departments (e.g.: IT, Accounts.). The Company will try to accommodate your requests.
+
+Additionally, while your privacy is respected, there may be instances when there will be a need to search work areas, desk drawers or computer directories -- for example, to search for a missing file or to investigate a possible problem. Business property and equipment, provided to you to do your work, is not private and Kualitatem Private Limited will exercise the right of access when necessary.
+
+Prohibited materials, including weapons, explosives, alcohol, illegal drugs or substances, and sexually suggestive materials may not be placed in an office, desk or locker. Employees, who, if requested, fail to cooperate in any inspection, will be subject to disciplinary action, including possible termination. Kualitatem Private Limited is not responsible for any articles that are placed or left in an office or desk or locker that are lost, damaged, stolen or destroyed.
+
+15.1 Safety 
+
+The Company is sincerely interested in the safety and well-being of our employees. The Company will make every effort to keep the office equipment in excellent condition, make sure that all safety devices are working properly and all emergency exits and routes are clearly marked.
+
+If, in spite of our efforts to ensure safe working conditions, an employee has an accident or becomes ill on the job, it should be reported to the manager or a responsible officer of the company immediately. They will see that prompt medical attention is provided
+
+In case of any disaster the employee should contact the People Excellence Team member and follow his / her instructions. If the PE Department is not contactable the employee should reach the emergency exits to evacuate the premises if required. An employee should also use his personal wisdom to act according to the situation and should neither panic nor create panic.
+
+15.2 Workplace Security
+The Company is committed to maintaining a safe and secure workplace. In order to maintain a secure work environment, the company strictly prohibits employees and visitors from bringing any firearm on Company property. In addition, round-the-clock professional security service is provided and all visitors are asked to check in with the receptionist. Failure to comply with this policy will result in disciplinary action up to and including termination.
+
+
+15.3 Non-Smoking Policy
+The Company maintains a non-smoking policy within the office. Employees should smoke only in those areas of the building which are designated for smoking.
+
+16. HARASSMENT
+a) Harassment is a form of discrimination. There are two main types of harassment:
+i. Sexual Harassment
+ii. Racial Harassment
+b) It is unlawful in any society to harass any employee in a place of work or to retaliate against any employee either for filing a complaint for harassment or cooperating in an investigation. It is the duty of the Management of Kualitatem Private Limited to ensure that no employee is harassed for any reason whatsoever. To harass someone is defined as:
+i. To exhaust or wear out with mental anguish.
+ii. To irritate or torment persistently.
+iii. To cause worry or distress into an individual with annoying demands.
+c) Harassment is a behavior designed to make a person unwelcomed, offended or humiliated and intimidated, however, harassment that leads to a hostile work environment is discrimination. Sexual harassment does not concern sexual attraction but focuses on the abuse of power. Both men and women can be victims of sexual harassment and both men and women can be harassers. Sexual harassment can take the following shapes:
+i. Criminal behavior such as sexual assault, display of sexually explicit material or discussion of sexually stimulating material or performing sexual gestures.
+ii. Uninvited or unwelcoming touching or advances.
+iii. Sex based insults or taunts.
+iv. Sending or exchanging pornographic material or emails containing objectionable contents.
+d) Racial Harassment is about discriminating against any employee on grounds of race, color, cast, religion and beliefs, marital status and mental or physical disability. This sort of harassment is also unlawful and prohibited in Kualitatem Private Limited.
+● Investigation
+i. Any sort of Complaint of harassment will promptly and carefully be investigated and all employees are assured that they will be free from reprisal or retaliation for filing such complaints.
+ii. Management investigation will include interviews with all relevant person including complainant, accused and any other witnesses. Management will also ensure the safety of the complainant and the confidentiality of the investigation at all costs.
+● On completion of investigation following actions can be taken:
+i. Depending upon the severity of complaint the accused employee can be reprimanded, transferred or terminated.
+ii. In case of false complaint and upon investigation if found guilty the complainant can also be reprimanded, transferred demoted or terminated again depending upon the nature of charges.
+
+Kualitatem Private Limited Management is determined to provide a harassment free work environment to all of its employees irrespective of their position in the company.
+
+17. ACCEPTABLE USE OF ELECTRONIC COMMUNICATION
+Kualitatem Private Limited has established this Internet, Intranet, e-mail, and electronic communication policy in an effort to make certain that employees utilize electronic communications devices in a legal, ethical, and appropriate manner. We have devised this policy in a manner that addresses the company's legal responsibilities and concerns regarding the fair and proper use of all electronic communications devices within the company.
+
+17.1 SCOPE OF POLICY
+This policy extends to all features of the company's electronic communications systems, including all computing equipment, (hardware and software), networking equipment, connections to the Internet, and all voice and video equipment, i.e. any form of electronic communication used by employees currently or in the future.. All employees of Kualitatem Private Limited are subject to this policy and are expected to read, understand, and comply fully with its provisions.
+
+17.2 STANDARDS AND RULES
+It may not be possible to identify every standard and rule applicable to the use of electronic communications devices. Employees are therefore encouraged to utilize sound judgment whenever using any feature of the communications systems. In order to offer employees some guidance, the following principles and standards should be clearly understood and followed:
+
+1. The company's policy against harassment, including sexual harassment, extends to the use of computers, the Internet, and any component of the communications systems. In keeping with that policy, employees should not use any electronic communications device in a manner that would violate that policy.
+2. The company's anti-discrimination policies extend to the use of communications systems. Any employee who uses any electronic communications device in any manner that violates the company's anti- discrimination policies or commitment to equal employment opportunity will therefore be subject to disciplinary action, including the possibility of immediate termination.
+3. Employees may not use an electronic communications device for a purpose that is found to constitute, in the company's sole and absolute discretion, a commercial use that is not for the direct and immediate benefit of the company or that is competitive to the interests of the company
+4. Employees may not use any electronic communications device in a manner that violates the trademark, copyright, or license rights of any other person, entity or organization.
+5. Employees should identify all communications as "privileged and confidential" when it is accurate and appropriate to do so. In this manner, the company can assert any protections, privileges and rights relating to communications if it becomes necessary to do so (Reference: Email policy agreement)
+
+17.3 ACCESS
+
+Kualitatem Private Limited must retain the right and ability to enforce policy and to monitor compliance with its terms. While computers and other electronic devices are made accessible to employees to assist them in performing their jobs and to promoting the company's interests, all computers and electronic devices, must remain fully accessible to the company, and will remain the property of Kualitatem Private Limited
+
+Again, while we respect the privacy of your working environment, Kualitatem Private Limited retains the right to gain access to any information received by, transmitted by, or stored in any such electronic communications device, either with or without an employee's knowledge, consent or approval
+
+17.4 TELEPHONE MONITORING
+Company telephone lines are limited and are designed only for business use. Personal phone calls should be kept to a minimum. Employees should practice discretion when making local personal calls and may be required to reimburse Kualitatem Private Ltd. for any charges resulting from their personal use of the telephone. If required, the company may also monitor the usage of telephone systems by employees.
+
+17.5 CELL PHONE USAGE
+While nature of some employees’ work necessitates that those employees may not take their cell phones to their workplace, the company generally allows employees to use their cell phones on company premises; however, employees are expected to exercise prudent judgment in keeping personal calls to a minimum.
+
+The following are some guidelines for proper cell phone usage at the office:
+
+a. Loud and/or fancy ring tones can be offensive and inappropriate in the workplace. Employees are advised to keep ringtones at minimum volume or to turn the ring tones off, while in the office area.
+
+b. Employees should keep in mind that cell phone conversations can be loud, even when the parties think that they are being quiet.
+
+c. In-Person conversations should not be interrupted for cell phone calls; however, if it is an urgent call, politely excuse yourself from the conversation before answering.
+
+The company will not be liable for the loss of personal cell phones brought into the workplace.
+
+17.6 COMPLIANCE IS ESSENTIAL
+Employees who violate any respect of this policy or who demonstrate poor judgment in the manner in which they use electronic communications devices will be subject to disciplinary action, up to and including the possibility of immediate termination. Employees who have any questions regarding this policy should bring them to the immediate attention of the People Excellence Department.
+20.      TECHNOLOGY USAGE AND PRIVACY
+a)      Technology resources consist of all electronic devices, software, means of communication, laptops, Personal Computers, access to external services such as internet, cellular phones, voice mail systems, fax machines and telephone.
+b)     Technology resources are to be used by employees only for the purpose of conducting company business. Employees may however use the resources for incidental personal use, as long as such use does not interfere with employees’ duties, it is not done for financial gain, does not conflict with companies business or violate any Company policy. Following are some of the admissible & non-admissible uses of technology resources:
+i.  Admissible:
+·          Use of telephone for brief and occasional personal calls.
+ii  Non-Admissible
+·          Storage of personal data on any technology resource.
+·          Long personal phone calls.
+·          Personal internet use during working hours.
+·          Personal use of printers, fax and scanner machines.
+c)   Authorization
+i.            Access to technology resources is with the sole discretion of Kualitatem Private Ltd’s management.
+ii.            Only employees whose job requires access to certain technology resources will be given access to it.
+iii.           Employee’s use of any resource is to be monitored by the immediate supervisor.
+iv.           In case of any deviance from correct and proper usage an employee may be verbally counseled or warned in writing.
+v.         Access to any resource can be withdrawn at any time without prior notice.
+ 
+d)        Improper use of technology resources, violation of copyright laws and other prohibited usage include but not limited to the following:
+i.  Employees must take care not to let informality degenerate into improper use of technology resources. Kualitatem Private Limited will not tolerate:
+ii.Technology resources to transmit recover or store any information that is in any way of a sexual or racist nature. (E.g. sexually explicit or racist messages, jokes and cartoons.).
+iii.Technology resources must not be used to copy, retrieve and forward copyrighted material unless employee has written permission from the author.
+ iv. Technology resources must not be used in a manner contrary to the best interest of Kualitatem Private Limited, in a way that discloses confidential or proprietary information or for personal of economic gain.
+
+e)  Access to TechnologyResources
+ 
+All messages sent and received including personal messages and all data information stored in electronic mail systems or computer systems are Company property regardless of the content. Kualitatem  reserves the right to access all technology resources including its computers, voice mail, and electronic mail system at any time, at its sole discretion.
+
+ 	20.1 PRIVACY
+ 
+·         The Company does not intend to examine personal information/ data of its employees. On occasions the management of the Company may need to access its technology resources including computer files, electronic mail messages and voice mail messages.
+·         Employee must clearly understand that they have no right of privacy with respect to any messages or information created or maintained on Company’s technology resources.
+·         Kualitatem Private Limited may at its discretion inspect all files or messages on its technology resources at any time for any reason.
+·         It may also monitor its resources at any time in order to determine compliance with its policies.
+·         For matters relating to legal proceedings or during investigation on any employee charged of misconduct or for any other business purpose, Kualitatem  has the right to carry out a physical search and inspect all technology resources it considers appropriate.
+ 
+21. 	EMAIL AND INSTANT MESSAGES POLICY
+21.1             Email Policy
+The purpose of this policy is to ensure the proper use of Kualitatem Private Limited’s email system and make users aware of what Kualitatem Private Limited deems as acceptable or unacceptable use of its email system. Kualitatem Private Limited reserves the right to amend this policy at its discretion.
+21.1.1   	Rules and Requirements
+Email is a business communication tool and users are obliged to use this tool in a responsible, effective and lawful manner. Although by its nature email seems to be less formal than other written communication, however, the same laws apply. Therefore, it is important that users are aware of the rules, requirements and risks of email.
+ 
+Please note that you may be held liable for legal as well as disciplinary action if the rules in this Email Policy are violated in any way.
+ 
+The following rules must be strictly adhered to. It is prohibited to:
+ 
+a.        Send or forward emails containing libelous, defamatory, offensive, racist or obscene remarks or emails containing religious material/comments.
+b.   	Forward or copy a message containing confidential or copyrighted information without acquiring prior permission from the sender/owner of the information.
+c.        Send unsolicited email messages.
+d.   	Forge or attempt to forge email messages.
+e.        Disguise or attempt to disguise your identity when sending mail.
+f.         Send email messages using another person’s email account.
+g.   	Send an attachment that contains a virus, spyware, adware, or any such malicious code.
+h.        If you receive an email which is in violation of the above rules, you must promptly notify your supervisor.
+ 21.1.2  Best Practices
+ 
+Kualitatem Private Limited considers email as an important means of communication and recognizes the importance of proper email content and speedy replies in conveying a professional image and delivering good customer service. Users should take the same care in drafting an email as they would for any other communication. Therefore, Kualitatem Private Limited wishes users to adhere to the following guidelines:
+21.1.3  Writing emails
+a.        Write well-structured emails and use short, descriptive subjects.
+b.       When addressing clients make sure that you are authorized to write directly to client representatives – if in doubt check with your supervisor.
+c.        When including client representatives in a list of recipients take extra care to ensure that the style and content of the mail is appropriate.
+d.       Kualitatem Private Limited email style is informal. This means that sentences can be short and to the point. You may start your email simply with the name of the person. Messages may be ended with ‘Best Regards’. The use of Internet abbreviations, smileys, and religious greetings is discouraged.
+e.        Signatures must include your name, job title and company name
+f.         Spell check all mails prior to transmission.
+g.       Do not send unnecessary attachments. It is recommended to compress attachments larger than 200K before sending them.
+h.        Do not write emails in capitals.
+ 
+21.1.4  Personal Usage
+ 
+Although the company’s email systems are  meant for business use, Kualitatem Private Limited allows personal usage if it is reasonable and does not interfere with work. Kualitatem Private Limited discourages the sending of chain letters, junk mail, jokes and executables. All messages distributed via the company’s email system are Kualitatem Private Limited property.
+ 
+21.1.5 Proprietary & Confidential Information
+ ·         It is the duty of all employees not to use or disclose any proprietary or confidential information they obtain during their employment with Kualitatem Private Limited, except as required by the nature of their job. This obligation remains binding on the employee even after the employment relationship with the Company comes to an end.
+·         All employees must observe good security practices. They are obligated to keep confidential information secure from outside visitors and all other persons who do not have a legitimate reason to see or use such information.
+·         Company rules regarding document control and access to restricted areas must be strictly observed. No visitors will be allowed into restricted areas such as all development areas, People Excellence Department, Accounts and System Support unless there is a need to visit the said areas. All visitors will be restricted to the reception area.
+·         Written non-disclosure agreement must be obtained from all employees.
+·         Failure to adhere to above policy might lead to disciplinary action, resulting in immediate termination from the employment.
+ 
+21.1.6  System Monitoring
+Users of the company’s email system expressly waive any right of privacy in anything they create, store, send or receive on the company’s computer system. Kualitatem Private Limited may monitor emails without prior notification. If there is evidence that anyone is not adhering to the guidelines set out in this policy, Kualitatem Private Limited reserves the right to take disciplinary action, including termination and/or legal action.
+ 
+21.2  Instant Messages Policy
+Instant Messaging access is provided by Kualitatem Private Limited to assist employees in communicating with coworkers, and clients. This enables them to obtain work-related data and technology and upgrade their technical knowledge.
+21.2.1   Scope
+This policy applies to all employees of Kualitatem Private Limited.
+ 			21.2.2 Purpose
+This policy describes the standards pertaining to the use of Instant Messaging technology and is being implemented to:
+ 
+a.        Outline the limitations on the use of this technology,
+b.       Protect company information,
+c.        Describe the expectation of privacy when using instant messaging, and
+d.   	Outline the rules applied when using instant messaging.
+21.2.3 Policy
+The use of Instant Messaging technology, and other forms of Chatting, is limited to company business use only.
+21.2.4 General Guidelines and Rules
+a.        Instant Message can cause interruption to work and thus it should be used only when deemed necessary and for Kualitatem Private Limited business use only.
+b.       All Instant Messages communications and information transmitted, received, or archived in the company's IM system belong to the company.
+c.        Employees can have no reasonable expectation of privacy when using the company s Instant Message system. The company reserves the right to monitor, access, and disclose all employee Instant Message communications.
+d.       The Instant Message system is intended for business use only. Employees are prohibited from wasting computer resources, colleague’s time, or their own time sending personal instant messages or engaging in unnecessary chat unrelated to business.
+e.        Treat Instant Message messages as business records that may be retained and used as evidence in litigation, audits, and investigations.
+f.         Employees are required to retain all business-related instant messages.
+g.       Always use professional and appropriate language in all instant messages. Employees are prohibited from sending abusive, harassing, threatening, menacing, discriminatory, pornographic, disrespectful, or otherwise offensive instant messages.
+h.        Employees are prohibited from sending jokes, rumors, gossip, or unsubstantiated opinions via Instant Message. These communications, which often contain objectionable material, are easily misconstrued when communicated electronically.
+i.         Employees may not use Instant Message to transmit confidential, proprietary, personal, information about the company, employees, clients, business associates, or other third parties.
+j.         Employees may not share confidential, proprietary, or potentially embarrassing business- related or personal Instant Messages with the media, competitors, prospective employers, or other third parties.
+ 
+DOs and DON’Ts of Instant Message USAGE:
+ 
+·          DO: Be aware of virus infections and related security risks.
+·          DO: Keep your instant messages simple, and to the point, and know when to say goodbye.
+.       DON'T: Use instant messaging to communicate confidential or sensitive information.
+·          DON'T: Allow personal messaging at work.
+·          DON'T: Compromise your company's liability, or your own reputation.
+·          DON'T: Share personal data or information through instant messaging.
+·          DON'T: Confuse your contacts with a misleading user name or status.
+ 
+22.     IT ASSET SECURITY
+22.1             PURPOSE
+This document defines the policy for security of a company-provided laptop computer that includes the device as well as the business systems and data residing upon it. This asset belongs to the organization and is assigned to the employee for business use only. It is the employee’s responsibility to use the assigned laptop/system properly, protect it from being damaged, stolen or misused and keep it in his/her safe custody.
+ 
+22.2 SCOPE
+This policy applies to all permanent and contractual employees of Kualitatem Private Limited who have company provided laptops.
+ 
+                           22.3   POLICY
+22.4     Asset Security
+ 
+Assignment
+1.        A laptop/Desktop is assigned to the employee based on the role and nature of assigned work. This decision shall be made by Department Heads in accordance with the role & policy.
+2.        IT team shall apply the controls and shall verify the configuration.
+Physical Security
+1.        It is the employee’s responsibility to use the laptop/Desktop properly, protect it from being damaged, stolen or misused and keep it in his/her safe custody.
+2.        Employee shall use all possible means to keep this asset from being stolen.
+3.        In case the laptop is stolen or damaged then the employee shall immediately inform, in writing his/her Reporting Manager, People Excellence Department and IT Department and provide complete incident details and/or legal proof of the laptop have been stolen. Management Committee comprises of employee’s Manager, Head of PMO and HR Manager will review the case.
+4.        In case of theft, if employee negligence is proven then the employee shall contribute 100% of the cost of the replacement laptop price. Furthermore, the employee shall pay full price of new laptop in case he/she is not authorized to take out the laptop from office premises and it is then stolen. Finance department shall calculate the amount and inform the Department Head who shall then inform the employee accordingly.
+5.        In case of damages, a diagnostic review will be carried out by the IT department and if damages are found to be caused by employee negligence, the employee shall pay the repair cost. Damages include but are not limited to broken laptop screen, device port, laptop casing, etc.
+Data Security
+1.        The employee shall not leave the laptop unattended without proper locking (screen lock)
+2.        The employee is accountable for any action taken by his/her user ID. Therefore employee shall not share username and password. This includes family and other household members when work is being done from home.
+3.        The employee shall ensure that only those software shall be installed that are required to perform the assigned job.
+4.        The employee shall not alter the security and anti-virus configurations. In case of any issue, the employee shall establish contact with the IT support team.
+5.        It shall be the employee’s responsibility to protect all information stored on the laptop/Desktop. As the laptop/Desktop is given for business use only so the organization has the right to review data stored on the assigned laptop/Desktop.
+6.        The employee must ensure that the assigned laptop/Desktop machine shall not be used for any kind of unlawful activity for example, software piracy, fraudulent activity, exporting software information, technical information, application code or technology, and other business related information to unauthorized personnel.
+22.5             Enforcement
+ 
+Any employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+22.6             General Guidelines
+
+The following are general guidelines for protection of data that resides on the laptop. Providing improved security guidelines is a dynamic and ongoing process that requires periodic reviews and revision of existing policies, procedures and controls. Therefore it is the responsibility of every employee to review these guidelines, setup/verify the applied controls and perform their activities accordingly.
+1.        While viewing restricted and/or sensitive information, the laptop screen should be placed in such a way that the data is not viewable by the persons walking by or seated around.
+2.        The employee should adopt all means to protect data from unauthorized user(s) especially in case of laptops that are used in car(s), hotel(s), airport(s), meeting room(s), conference room(s) etc.
+3.        It is employees’ responsibility to ensure laptop/Desktop safety.
+4.        Keep the laptop/Desktop away from magnetic fields. Magnetic fields can erase data on both diskettes and hard drives.
+5.        Laptops/workstations should have an approved password-protected screen saver with a screen lock that triggers when the workstation / laptop is unattended for a period of 5 minutes or more.
+6.        Only required software should be installed.
+7.        Employees should take regular backup of critical and confidential information that resides on their workstation / laptop.
+8.        No customer data shall be stored in local drives. In case, there is a need to do so as per work requirement, then after the work, the data must be removed.
+9.        In-case of any breach of this policy and /or consequent a loss of hardware or data, employees should inform the People Excellence Department immediately.
+10.     Personal data should not be stored on the laptop.
+11.     No user should leave the laptop/Desktop unattended without proper locking.
+12.     Sharing or disclosing usernames and passwords is not allowed. Authorized users are responsible for the security of their passwords and accounts.
+13.     Employees should not open the laptop casing, or remove devices. In case of any problem, the employee should contact teamIT.
+14.     The employee must not share folders with access to everyone.
+15.     Disconnect from the internet if no work is required.
+16.     Do not use “Remember Password” feature of applications
+17.     Do not copy unsolicited information from other computers available on the network; make sure that you get a clean machine from IT Support in response to a request made for this purpose.
+18.     Ensure that the latest anti-virus definitions are installed
+19.     Shutdown / Hibernate your computer when not in use for prolonged spells of time.
+20.     Before installation of any open source and unlicensed software, please review software vulnerabilities.
+
+23 COMPANY VEHICLE POLICY
+ 
+23.1 OBJECTIVE
+This policy lays down the terms and conditions under which employees are provided facility of cars with buy back option for official and personal use.
+23.2 SCOPE
+This Car Scheme establishes procedures and conditions for allowing car facility to employees of the company. This scheme is applicable to all the department heads who have completed one year of confirmed employment subject to the annual Budget allocations for the Scheme.
+ 
+23.3 ELIGIBILITY
+ 
+The Tier wise entitlement of Car(s) is detailed below. The eligible employee must be recommended by the Department Head and approved by COO / CEO.
+ 
+ 
+Designation
+Tier
+Eligibility
+Car
+Head of Department
+5
+50%
+Honda City 1.3 Auto /Corolla GLI 1.3 Auto*
+ 
+*Same or equivalent price vehicle that can be financed by the financing institution. Price ceiling will be announced every year by the People Operations Team.
+ 
+a.      An employee will be eligible for the Car policy ONLY after 1 full year of complete service with the Company as per the eligibility tier mentioned above.
+b.      The cars will be provided as an employee benefit where all upfront payments will be borne by the employee and the Company will contribute Eligibility% (As per eligibility Tier) in the monthly installments for the duration of the installment period. (Refer to Example in Annexure ‘A’)
+ 
+c.       In case an employee intends to get a car other than his/her entitlement then full lump sum payment of differential amount will be required to be paid by the employee before booking of the car.
+ 
+d.      The Car shall be registered in the name of the Company and comprehensively insured for a period of 5 years.
+ 
+e.      Maintenance expenses incurred on Oil & Lubricants, Tuning, Denting, Painting and all types of Repairs (Other than those claimable from the insurance) and replacement of Tyres after 50,000 km and Battery will be borne by the employee.
+ 
+f.        The Car registration will be transferred to the Employee after 5 years on receiving all dues specified in annex A. The transfer and registration fee will be paid by the Employee.
+g.      The Employee shall keep the Car in good condition and working order and will not make any changes therein without the prior written consent of the Company. The Employee shall notify the Company in writing of any change in his address and the address of the premises where the Car is being kept.
+h.      Costs of service, fines and penalties related to traffic violations and / or car misuse will be borne by the employee.
+i.        In case of promotions or whatsoever reason, no car will be replaced until the completion of 5 years’ tenure of vehicle. However once the tenure is complete the employee will be eligible for a new car as per the new eligibility.
+j.        In case of resignation / termination of service, the company will recover its contribution and employee may buy the Car as detailed below :
+ 
+■      No benefit will be given to employee if he / she leaves before 2 years
+■      25 % of company’s contribution will be credited to employee on completion of two years
+■      50 % of company’s contribution will be credited to employee on completion of three years
+■      75 % of company’s contribution will be credited to employee on completion of four years
+ 
+24.      MISCELLANEOUS
+ 
+24.1 PERSONAL PROPERTY
+The Company is not responsible for the loss of personal property or money. Safe and secure storage of all personal belongings while on Company premises is solely the responsibility of the employee. Kualitatem Private Limited cannot be held responsible for loss of employee’s personal and private belongings.
+ 
+24.2 OUT-SIDE EMPLOYMENT
+No employee shall take up any (full-time or part-time) employment of any company (paid or unpaid) or be employed in any way or for any purpose whatsoever (paid or unpaid) by any person, firm or company except with the prior written approval from the People Excellence Department. Violation may lead to immediate termination of employment.
+ 
+24.3   PUBLIC INQUIRIES
+Employees are not allowed to speak on behalf of the Company to the media or make comments to the public without the express consent of the Management.
+ 
+24.4   CRIMINAL CONVICTIONS
+It is necessary for employers to be aware of previous history of all employees. Management reserves the right to ask and question any employee on past criminal convictions, arrests or punishments. Employees reserve the right not to disclose any “Spent convictions”. Convictions become spent after ten years of crime free period. The management reserves the right to disqualify any application for employment on the basis of criminal record of any person depending upon the severity of the crime committed.
+ 
+24.5  INTERNET AND ONLINE SERVICES
+Only Authorized employees are provided access to online service such as Internet. The management expects employees to use the services provided in a responsible way and for business related purposes only. In no way these services will be used to access, download or contribute to the following:
+a)        Gross, indecent or sexually – oriented materials.
+b)       Sports sites.
+c)        Job search sites.
+d)   	Entertainment & Gambling sites.
+e)        Games, Humor
+f)         Politically oriented sites
+g)   	Employees must refrain from using online services to reproduce and (or) forward personal email messages to multiple electronic addresses.
+h)        Employees must refrain from sending any confidential information, unless required by the Company’s management or client.
+i)In Kualitatem Private Limited only the People Excellence Department is authorized to circulate / share approved information on behalf of the Management through emails to all Kualitatem Private Limited employees.
+ 
+24.6  SECURITY
+ 
+The security of employees, employee’s property and Company property is of vital importance to Kualitatem Private Limited. The Company will ensure that proper steps are taken to maintain security, however all employees are requested to cooperate with the security personnel. The company would appreciate if all its employees share this responsibility with the Company and in case of any security violation they inform the responsible authorities on immediate basis.
+The Administration department maintains and promulgates security procedures. The procedure clearly states the rules for securing the entrances, exits, restricted areas and all regulations regarding the protection of Company property. All employees are expected to abide by these rules.
+
+     24.7 SECURITY AND INCIDENT REPORTING
+
+The security of employees, employee’s property and Company property is of vital importance to Kualitatem Private Limited. The Company will ensure that proper steps are taken to maintain security, however all employees are requested to cooperate with the security personnel. The company would appreciate it if all its employees share this responsibility with the Company and in case of any security violation or Incident happening they inform the responsible authorities on immediate basis. The responsible authorities include People Excellence Department & Administration Department. Anyone can reach out to People Excellence Department via Employee Services Unit Account on Microsoft Teams or contact on 0301-8382901
+The Administration department maintains and promulgates security procedures. The procedure clearly states the rules for securing the entrances, exits, restricted areas and all regulations regarding the protection of Company property. All employees are expected to abide by these rules.
+You can reach out to Local Authorities in case of any Incident, the contact details are mentioned below:
+Administration Manager Kualitatem Pvt Ltd: 0322-2223769
+Local Police Station
+Address: E-block Sector E DHA Phase 6, Lahore, Punjab, Pakistan
+Contact: DHA Area
+SDPO: 042-35728462
+042-35727470, 042-35892014, 0308-7773255
+Ambulance Service:
+Rescue: 1122
+Ambulance Service DHA:  0302-8887432 (DHA medical centre, Phase III Sector W DHA Phase 3, Lahore)
+List of Nearest Hospitals:
+National Hospital & Medical Center, DHA Lahore.
+Muhammad Shahbaz Sharif Hospital
+Kamran Siddiq Hospital
+Fatima Hospital
+Nearest Fire Brigade Service:
+Rescue 1122
+
+24.8 SMOKING
+
+Kualitatem Private Limited provides a smoke free working environment to all its employees. Smoking is not allowed inside the office premises. Smokers are requested to smoke outside the office building at designated spots.
+ 
+24.9 COMPANY STATIONARY
+Improper use of Company stationery can cause serious issues both for the Company and the employee misusing it. The Management of  Kualitatem Private Limited  is fully aware of the consequence of improper use and has developed the following guidelines for the use of Company stationary such as letter-heads, envelopes and any other stationary items.
+ 
+a)        All company stationery shall strictly be controlled and issued by the People Excellence Department. It will be the responsibility of the issuing person to ensure to the best of his/her abilities that the department/person requesting stationary will not use the stationary for any unauthorized/unlawful purpose.
+·         No employee is allowed to unlawfully access or use Company stationary. Any employee found to be in possession of unlawfully obtained stationary, misusing stationary, tampering or altering any printed stationery such as pay slip, invoices, bills etc., shall be liable for immediate termination from the Services of the Company.
+ 
+24.10 PRIVACY OF EMPLOYEE INFORMATION
+Kualitatem Private Limited recognizes the importance of individual privacy and protects each employee’s right to privacy:
+a)        Employee’s personal information is limited to that needed by the company for company business and legal purposes.
+b)   	Company will protect the confidentiality of all personal information in its records.
+c)        All employees who will be involved in employee’s personal record keeping and having access to confidential information will be required to adhere to this policy/practice and sign Non-Disclosure Agreement (NDA).
+d)   	Internal access to employee records is limited to those employees having authorization to obtain information for business related needs, such as Chief Executive Officer, Head of People Excellence Department and Head of Finance Department. Access also may be given to third parties, including government agencies, following a court order.
+e)        The Company will refuse to release personal information to outside sources without the employee’s written approval unless legally required to do so.
+
+
+26. Kualitatem Pvt. Ltd. Locker Facility
+
+It is the policy of Kualitatem Pvt. Ltd to provide lockers only to employees that do not have an office or cubicle. Employees wishing to use a locker should contact the People Excellence Department by locking a ticket (https://hrsupport.kualitatem.com/) to be assigned one. 
+
+General Guidelines:
+All the employees using lockers agree to abide by the terms and conditions set forth by the People Excellence Department outlined below:
+l All lockers are the property of Kualitatem.
+l The People Excellence Department will provide a locker for each employee (in need), for safekeeping his/her personal belongings. Each locker will have two keys in total. One of the keys will be in possession of the PE Department while the other will be kept by the employee himself.
+l The employee shall be responsible and must keep the key safe with him/her. In case of theft/loss of key NO lock will be replaced. The employee must inform the PE Department by dropping an email about the loss of key and PE Executive in coordination with Admin Department will facilitate in getting a new Key made. Please note that until a new key will be provided the locker will be opened (Once only) by using the key in possession of the PE Department. 
+l Use of a locker by a person other than to whom it is assigned is forbidden. Misuse of a locker may lead to termination of locker privileges.
+l If the locker has to be opened by anyone other than the person using the locker, a member of the PE Department shall be present. 
+l The PE Department has the right to remove from lockers any facility property or any other item(s) that are stored in violation of our policies.
+l Employees must NOT add labels, tags, stickers, etc. on the lockers. This will constitute destruction of company property.
+l Lockers must be maintained in a clean and sanitary manner and kept free from accumulation of food and trash. NO wet foods are allowed in the lockers. Flammable materials, dangerous chemicals, explosives or weapons of any kind are strictly prohibited inside the lockers.
+l All personal items (Backpacks, Helmets, and Handbags etc.) must be placed in the locker. No Items should be placed on the work desk of the employee.
+l Lockers must be kept locked when not in use. Kualitatem Pvt. Ltd & Virtual Force do not assume responsibility for the loss, damage or theft of personal property.
+		
+
+		27. Information Security
+	
+		26.1 ISMS Policy
+
+It is policy of Kualitatem Private Limited to create, maintain and continually improve the Information Security Management System and to adhere to ISMS practices in compliance with best practices required for Software development and information security needs of the customer.
+Kualitatem Private Limited works within the framework of the Local Government, while fulfilling the contractual obligation of the client. This is to ensure protection of its information assets from all threats – internal or external, deliberate or accidental and natural disasters.
+Furthermore, to achieve this objective Kualitatem Private Limited. will ensure the following:
+1. Business requirements for availability of information and systems are met.
+2. Confidentiality and integrity and Availability of information is maintained throughout the process flow.
+3. All corporate assets (tangible/intangible) are located in a physically and logically secure environment.
+4. Risks to all corporate assets (tangible/intangible) are assessed and against all risks appropriate
+5. Contingency and mitigation plans are defined.
+6. Human resources are provided with conducive work environment, free from safety hazards.
+7. All personnel are trained on information security procedures.
+8. Physical, Logical and Remote access to all the corporate assets (tangible/intangible), information and physical locations is monitored and controlled.
+9. Business continuity plans are established, maintained, and tested and periodically and updated as needed.
+
+This policy shall be reviewed by the management in annual management review meeting (biannual).
+26.2 Security & Incident Reporting
+
+The security of employees, employee’s property and Company property is of vital importance to Kualitatem Private Limited. The Company will ensure that proper steps are taken to maintain security, however all employees are requested to cooperate with the security personnel. The company would appreciate if all its employees share this responsibility with the Company and in case of any security violation or Incident happening they inform the responsible authorities on immediate basis. The responsible authorities include People Excellence Department & Administration Department. Anyone can reach out to People Excellence Department via Employee Services Unit Account on Microsoft Teams or contact on 0301-8382901
+The Administration department maintains and promulgates security procedures. The procedure clearly states the rules for securing the entrances, exits, restricted areas and all regulations regarding the protection of Company property. All employees are expected to abide by these rules.
+You can reach out to Local Authorities in case of any Incident, the contact details are mentioned below:
+Administration Manager Kualitatem Pvt Ltd: 0322-2223769
+Local Police Station
+Address: E-block Sector E DHA Phase 6, Lahore, Punjab, Pakistan
+Contact: DHA Area
+SDPO: 042-35728462
+042-35727470, 042-35892014, 0308-7773255
+Ambulance Service:
+Rescue: 1122
+Ambulance Service DHA:  0302-8887432 (DHA medical centre, Phase III Sector W DHA Phase 3, Lahore)
+List of Nearest Hospitals:
+National Hospital & Medical Center, DHA Lahore.
+Muhammad Shahbaz Sharif Hospital
+Kamran Siddiq Hospital
+Fatima Hospital
+Nearest Fire Brigade Service:
+Rescue 1122
+26.3 Asset Handling
+1. It is the employee’s responsibility to use the laptop/Desktop properly, protect it from being damaged, stolen or misused and keep it in his/her safe custody.
+2. Employee shall use all possible means to keep this asset from being stolen.
+3. In case the laptop is stolen or damaged then the employee shall immediately inform, in writing his/her Reporting Manager, People Excellence Department and IT Department and provide complete incident details and/or legal proof of the laptop have been stolen. Management Committee comprises of employee’s Manager, Head of PMO and HR Manager will review the case.
+4. In case of theft, if employee negligence is proven then the employee shall contribute 100% of the cost of the replacement laptop price. Furthermore, the employee shall pay full price of new laptop in case he/she is not authorized to take out the laptop from office premises and it is then stolen. Finance department shall calculate the amount and inform the Department Head who shall then inform the employee accordingly.
+5. In case of damages, a diagnostic review will be carried out by the IT department and if damages are found to be caused by employee negligence, the employee shall pay the repair cost. Damages include but are not limited to broken laptop screen, device port, laptop casing, etc.
+
+
+
+
+2
+
+
+74
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75
+
