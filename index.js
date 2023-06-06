@@ -2,12 +2,12 @@ import dotenv from "dotenv";
 dotenv.config();
 import express from "express";
 import cors from "cors";
+import * as fs from "fs";
 import { OpenAI } from "langchain/llms/openai";
 import { ConversationalRetrievalQAChain } from "langchain/chains";
 import { HNSWLib } from "langchain/vectorstores/hnswlib";
 import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import * as fs from "fs";
 
 const app = express();
 const port = process.env.PORT || 4000;
@@ -33,6 +33,25 @@ app.post("/chatbot", async (req, res) => {
   try {
     const { prompt } = req.body;
     const result = await chain.call({ question: prompt, chat_history: [] });
+
+    const data = {
+      question: prompt,
+      response: result.text,
+    };
+
+    const filePath = "responses.txt";
+
+    const textData = Object.entries(data)
+      .map(([key, value]) => `\n${key}: ${value}`)
+      .join("");
+
+    fs.appendFile(filePath, textData, "utf8", (err) => {
+      if (err) {
+        console.error("An error occurred while writing the file:", err);
+      } else {
+        console.log("File has been successfully written!");
+      }
+    });
 
     res.json({
       message: result,
